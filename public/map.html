@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Musimap: Map</title>
+    <link rel="stylesheet" href="/ol3-geocoder/build/ol3-geocoder.min.css">
+    <link rel="stylesheet" href="https://openlayers.org/en/v3.20.0/css/ol.css" type="text/css">
+    <link rel="stylesheet" href="/bootstrap/dist/css/bootstrap.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,700" rel="stylesheet">
+    <link rel="stylesheet" href="../css/style.css" type="text/css">
+    <link rel="stylesheet" href="../css/map.css" type="text/css">
+    <script src="https://openlayers.org/en/v3.20.0/build/ol.js"></script>
+    <script src="/ol3-geocoder/build/ol3-geocoder.js"></script>
+  </head>
+
+  <body id="homepage">
+   <nav class="navbar navbar-static-top">
+   <a class="navbar-brand" href="#">DASHBOARD</a>
+    <img class="img-avatar pull-right" alt="Avatar icon" src="../img/unknown.svg">
+    </nav>
+
+    <div class="container-fluid">
+    <div class="row">
+        <div class="col-lg-6 dash-col">
+            <div id="map">
+            <h2>MAP</h2>
+            <div id="overlay"></div>
+            <div id="popup" data-toggle="popover" data-trigger="focus" data-placement="top">
+                <h3 id="city"></h3>
+                <p id="country"></p>
+            </div>
+            </div>
+        </div>
+        <div class="col-lg-5 dash-col tracks">
+            <h2>TRACKS</h2>
+            <table class="table table-hover">
+            <thead>
+                <tr>
+                    <td>Track</td>
+                    <td>Artist</td>
+                    <td>Album</td>
+                    <td>Duration</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                </tr>
+                <tr>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                </tr>
+                <tr>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                </tr>
+                <tr>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                </tr>
+                <tr>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                    <td>test</td>
+                </tr>
+            </tbody>
+            </table>
+        </div>
+    </div>
+
+    <!-- infographics -->
+    <div class="row">
+        <div class="col-lg-3 dash-col">
+            <h4>RELEASE YEAR</h4>
+        </div>
+
+        <div class="col-lg-4 dash-col">
+            <h4>PLAYLIST ARTISTS</h4>
+        </div>
+
+        <div class="col-lg-3 dash-col">
+            <h4>GENRES</h4>
+        </div>
+    </div>
+
+    </div>
+
+    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0-alpha.1/handlebars.min.js"></script>
+    <script src="/jquery/dist/jquery.min.js"></script>
+    <script src="/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js"></script>
+    <script src="../js/login.js"></script>
+    <script src="../js/mock/cityDetails.json"></script>
+    <script src="../js/requests.js"></script>
+    <script src="../js/map-mock.js"></script>
+
+  </body>
+</html>

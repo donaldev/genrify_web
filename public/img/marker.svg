@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="154px" height="154px" viewBox="0 0 154 154" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="35 81 118.561232 81 103.882157 117.134078 49.6790749 117.134078"></polygon>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="83.5612318" height="36.1340782" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <circle id="Oval" fill="#404160" cx="77" cy="77" r="77"></circle>
+            <use id="Rectangle" stroke="#F3F3F3" mask="url(#mask-2)" stroke-width="10" transform="translate(76.780616, 99.067039) scale(1, -1) translate(-76.780616, -99.067039) " xlink:href="#path-1"></use>
+            <path d="M76.7666667,29 C62.8566667,29 51.8,40.1288268 51.8,54.1296089 C51.8,72.7973184 76.7666667,100.798883 76.7666667,100.798883 C76.7666667,100.798883 101.733333,72.7973184 101.733333,54.1296089 C101.733333,40.1288268 90.6766667,29 76.7666667,29 L76.7666667,29 Z M76.7666667,63.1044693 C71.7733333,63.1044693 67.85,59.1555307 67.85,54.1296089 C67.85,49.1036872 71.7733333,45.1547486 76.7666667,45.1547486 C81.76,45.1547486 85.6833333,49.1036872 85.6833333,54.1296089 C85.6833333,59.1555307 81.76,63.1044693 76.7666667,63.1044693 L76.7666667,63.1044693 Z" id="marker" stroke="#F3F3F3" stroke-width="5" fill="#404160"></path>
+        </g>
+    </g>
+</svg>

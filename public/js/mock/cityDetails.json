@@ -1,0 +1,5035 @@
+cityDetails = [{
+     "city": "Arlington",
+     "country": "US",
+     "distinctive_music": "2MWz5oZb9MkRnfpZ0I90dH",
+     "lat": 32.701939,
+     "long": -97.1057148
+  },{
+     "city": "Portland",
+     "country": "US",
+     "distinctive_music": "0HsJZbNs7Psso4CLacznRn",
+     "lat": 45.5202471,
+     "long": -122.6741948
+  },{
+     "city": "Las Vegas",
+     "country": "US",
+     "distinctive_music": "16olvYpf0K5nWJ98Oxa4TG",
+     "lat": 36.1662859,
+     "long": -115.1492249
+  },{
+     "city": "Tucson",
+     "country": "US",
+     "distinctive_music": "0ydJLjrend1I3vOcluGUu6",
+     "lat": 32.2218917,
+     "long": -110.9262352
+  },{
+     "city": "Rochester",
+     "country": "US",
+     "distinctive_music": "6ZlCYeYCc97BYaby0nYrhA",
+     "lat": 43.157285,
+     "long": -77.6152139
+  },{
+     "city": "Richmond",
+     "country": "US",
+     "distinctive_music": "3VHwvw5QmNSA0pJbe0pVMT",
+     "lat": 37.5385087,
+     "long": -77.4342799
+  },{
+     "city": "Concord",
+     "country": "US",
+     "distinctive_music": "6ytTpgFh7otJAkR6uGKhyO",
+     "lat": 43.207178,
+     "long": -71.5374759
+  },{
+     "city": "Minneapolis",
+     "country": "US",
+     "distinctive_music": "5J22yTfKjgPfT7pf6MmV1j",
+     "lat": 44.9772995,
+     "long": -93.2654691
+  },{
+     "city": "Durham",
+     "country": "US",
+     "distinctive_music": "643vCKUXSZPY1gKuKsCAY6",
+     "lat": 35.9940329,
+     "long": -78.8986189
+  },{
+     "city": "Kaohsiung",
+     "country": "TW",
+     "distinctive_music": "2OAfGELRhW9Fk5TcOSY3YF",
+     "lat": 22.6203348,
+     "long": 120.3120375
+  },{
+     "city": "Hsinchu",
+     "country": "TW",
+     "distinctive_music": "02PQwNJHIl81oVlfBCEMXm",
+     "lat": 24.8066333,
+     "long": 120.9686833
+  },{
+     "city": "Linkoping",
+     "country": "SE",
+     "distinctive_music": "2TEpRAlO6kpVP6puC1ctW1",
+     "lat": 58.4098135,
+     "long": 15.6245252
+  },{
+     "city": "Falun",
+     "country": "SE",
+     "distinctive_music": "2cYgBloUYv2nvP8c0aBNLS",
+     "lat": 60.6069963,
+     "long": 15.6323059
+  },{
+     "city": "Kansas City",
+     "country": "US",
+     "distinctive_music": "555d9l95S69xBbivyUhKLf",
+     "lat": 39.0844687,
+     "long": -94.5630297
+  },{
+     "city": "Saint Louis",
+     "country": "US",
+     "distinctive_music": "5J9Vz0wjaGxX0FvjLC7H5A",
+     "lat": 38.6272733,
+     "long": -90.1978888
+  },{
+     "city": "Saint Paul",
+     "country": "US",
+     "distinctive_music": "41BjZv1c8Xr6gfubn53KKE",
+     "lat": 44.9504037,
+     "long": -93.1015025
+  },{
+     "city": "Long Beach",
+     "country": "US",
+     "distinctive_music": "1tRf23mdy7WwMhKRG2BHln",
+     "lat": 33.7853894,
+     "long": -118.1580492
+  },{
+     "city": "Antalya",
+     "country": "TR",
+     "distinctive_music": "1UX1A7A979wCH6Oo4r5jYE",
+     "lat": 36.9008783,
+     "long": 30.6937117
+  },{
+     "city": "Nashville",
+     "country": "US",
+     "distinctive_music": "6dCFzcmnKno0dKwk1t4G0z",
+     "lat": 36.1622296,
+     "long": -86.774353
+  },{
+     "city": "Houston",
+     "country": "US",
+     "distinctive_music": "7ihMjetICZGO8wxr65fJmx",
+     "lat": 29.7589382,
+     "long": -95.3676973
+  },{
+     "city": "Seattle",
+     "country": "US",
+     "distinctive_music": "4SMubSJhL8oHG1RNa6RGkQ",
+     "lat": 47.6038321,
+     "long": -122.3300623
+  },{
+     "city": "Denver",
+     "country": "US",
+     "distinctive_music": "4EVnKjHxMesvcl7MyVLunQ",
+     "lat": 39.7391536,
+     "long": -104.9847033
+  },{
+     "city": "Riverside",
+     "country": "US",
+     "distinctive_music": "2wDSDTraLhUxHBj5ABdkhS",
+     "lat": 33.9533546,
+     "long": -117.3961622
+  },{
+     "city": "Krakow",
+     "country": "PL",
+     "distinctive_music": "6oqUQHx64f4T6DxbZtWDqC",
+     "lat": 50.0469102,
+     "long": 19.9970638
+  },{
+     "city": "Dayton",
+     "country": "US",
+     "distinctive_music": "1M720CbqNTug13z071qmE0",
+     "lat": 39.7589478,
+     "long": -84.1916068
+  },{
+     "city": "Boston",
+     "country": "US",
+     "distinctive_music": "3Ail1brqN8AJFrxL4FcTir",
+     "lat": 42.3604823,
+     "long": -71.0595677
+  },{
+     "city": "Tampa",
+     "country": "US",
+     "distinctive_music": "3w5fPDYXxTrRZtNMoZcL0X",
+     "lat": 27.9477595,
+     "long": -82.4584439
+  },{
+     "city": "Raleigh",
+     "country": "US",
+     "distinctive_music": "11f0UtdPlwBnAApDTcsiwN",
+     "lat": 35.7803977,
+     "long": -78.6390988
+  },{
+     "city": "La Habra",
+     "country": "US",
+     "distinctive_music": "0NUqIgBNnJvQxdMu3bYbou",
+     "lat": 33.9318775,
+     "long": -117.9461073
+  },{
+     "city": "Lubbock",
+     "country": "US",
+     "distinctive_music": "5tLx43IzG5ieOry8Oq6TeT",
+     "lat": 33.5778631,
+     "long": -101.8551664
+  },{
+     "city": "Columbus",
+     "country": "US",
+     "distinctive_music": "63IcMSzNQKW5rVjtwaKGqV",
+     "lat": 39.9622601,
+     "long": -83.0007064
+  },{
+     "city": "Karlstad",
+     "country": "SE",
+     "distinctive_music": "6BAjcpGP1hCSFS5hguyxa1",
+     "lat": 59.3799132,
+     "long": 13.502948
+  },{
+     "city": "Sundbyberg",
+     "country": "SE",
+     "distinctive_music": "4Gqn6EeUPeYM3JCAPSOuRp",
+     "lat": 59.3628802,
+     "long": 17.9681359
+  },{
+     "city": "New York",
+     "country": "US",
+     "distinctive_music": "4vH8Fb8fmgM4NELtVHIJQj",
+     "lat": 40.7305991,
+     "long": -73.9865811
+  },{
+     "city": "Chicago",
+     "country": "US",
+     "distinctive_music": "6UhIdjRWhofrYI32vzVuh9",
+     "lat": 41.8755546,
+     "long": -87.6244211
+  },{
+     "city": "Humble",
+     "country": "US",
+     "distinctive_music": "4SNPUdLFSpRQt0gBIPkpcY",
+     "lat": 29.9988312,
+     "long": -95.2621552
+  },{
+     "city": "Madison",
+     "country": "US",
+     "distinctive_music": "0IamavmnOywqepvNOuJwRt",
+     "lat": 43.074761,
+     "long": -89.3837612
+  },{
+     "city": "San Jose",
+     "country": "US",
+     "distinctive_music": "2qmNKYbEGBBb4lUS97nzMb",
+     "lat": 37.3361905,
+     "long": -121.8905832
+  },{
+     "city": "Cleveland",
+     "country": "US",
+     "distinctive_music": "01s3zfdCTwJ8yaeX5sbS7J",
+     "lat": 41.5051613,
+     "long": -81.6934445
+  },{
+     "city": "Hoor",
+     "country": "SE",
+     "distinctive_music": "2ReZq8pr8qKZSjWE4AJ014",
+     "lat": 55.9332915,
+     "long": 13.5453834
+  },{
+     "city": "Fort Worth",
+     "country": "US",
+     "distinctive_music": "5AvLpGlSqsXTURwRFQtlWg",
+     "lat": 32.753177,
+     "long": -97.3327458
+  },{
+     "city": "San Francisco",
+     "country": "US",
+     "distinctive_music": "7lP1NljSSmtIezSvXaRu1M",
+     "lat": 37.7647993,
+     "long": -122.4629896
+  },{
+     "city": "Charlotte",
+     "country": "US",
+     "distinctive_music": "1f4HcldzIDN5rVOl5n1MxU",
+     "lat": 35.2270869,
+     "long": -80.8431267
+  },{
+     "city": "Hassleholm",
+     "country": "SE",
+     "distinctive_music": "5QvYr9Gi3S5Ym3vrh7PCym",
+     "lat": 56.157986,
+     "long": 13.7653328
+  },{
+     "city": "Austin",
+     "country": "US",
+     "distinctive_music": "3gz7G6lax8nkXZ3vBr3n4i",
+     "lat": 30.2711286,
+     "long": -97.7436994
+  },{
+     "city": "Szczecin",
+     "country": "PL",
+     "distinctive_music": "2KoDTDUZxtTCHhS6pfvCet",
+     "lat": 53.4296993,
+     "long": 14.5929034
+  },{
+     "city": "Brooklyn",
+     "country": "US",
+     "distinctive_music": "1TyZihjHVxRiLgIIQ8doRz",
+     "lat": 40.6501038,
+     "long": -73.9495822
+  },{
+     "city": "Colorado Springs",
+     "country": "US",
+     "distinctive_music": "7hCAmAOU9wfUk24ozZhWma",
+     "lat": 38.8339578,
+     "long": -104.8253484
+  },{
+     "city": "Petersburg",
+     "country": "US",
+     "distinctive_music": "0zyWvngqVuwY16GvfqE8ZJ",
+     "lat": 37.1924594,
+     "long": -77.3677407
+  },{
+     "city": "Detroit",
+     "country": "US",
+     "distinctive_music": "3JCBPwsE24EuNiRMu4vKJE",
+     "lat": 42.3486635,
+     "long": -83.0567374
+  },{
+     "city": "Sakarya",
+     "country": "TR",
+     "distinctive_music": "3qBNvDTJ5CnFNnnmxXBwaE",
+     "lat": 40.7731834,
+     "long": 30.481606
+  },{
+     "city": "Bromma",
+     "country": "SE",
+     "distinctive_music": "3IUtAlQ7g2WuyvJLdLA9PX",
+     "lat": 59.0591152,
+     "long": 16.0202222
+  },{
+     "city": "Dasmarinas",
+     "country": "PH",
+     "distinctive_music": "7Ka4pHcKrMKBhedSzIeVu6",
+     "lat": 14.3270819,
+     "long": 120.9370871
+  },{
+     "city": "Antipolo",
+     "country": "PH",
+     "distinctive_music": "2oT4y4znLfE2TN2IoQkwXX",
+     "lat": 14.5870262,
+     "long": 121.1758611
+  },{
+     "city": "Marilao",
+     "country": "PH",
+     "distinctive_music": "6AkJ8VloT6kEBUq2wa5A9e",
+     "lat": 14.766667,
+     "long": 120.95
+  },{
+     "city": "Corona",
+     "country": "US",
+     "distinctive_music": "1lgTx3EbMGfQZ38U3EUjCk",
+     "lat": 40.7469593,
+     "long": -73.8601455
+  },{
+     "city": "Los Angeles",
+     "country": "US",
+     "distinctive_music": "53JqQphsAHvDGGVZErKmW5",
+     "lat": 34.054935,
+     "long": -118.2444759
+  },{
+     "city": "Stockton",
+     "country": "US",
+     "distinctive_music": "0f0BCk4hkho3J3wjYW21Cl",
+     "lat": 37.9577016,
+     "long": -121.2907795
+  },{
+     "city": "Davao City",
+     "country": "PH",
+     "distinctive_music": "0ukTYg3UlpFvr9ijFYLJEJ",
+     "lat": 7.2265073,
+     "long": 125.4548877
+  },{
+     "city": "Hollywood",
+     "country": "US",
+     "distinctive_music": "4n6zvywofl2pQcBgb8v00y",
+     "lat": 34.1028268,
+     "long": -118.3299898
+  },{
+     "city": "Milwaukee",
+     "country": "US",
+     "distinctive_music": "2v3Qu9YRBXlyJC2jCSmkSL",
+     "lat": 43.0349931,
+     "long": -87.9224969
+  },{
+     "city": "Taguig",
+     "country": "PH",
+     "distinctive_music": "6WU4fCvIrfuTPf8H4uZyiN",
+     "lat": 14.5266254,
+     "long": 121.074403
+  },{
+     "city": "Dallas",
+     "country": "US",
+     "distinctive_music": "5thq4HQaIBxOK1vE9bu2nj",
+     "lat": 32.7762719,
+     "long": -96.7968558
+  },{
+     "city": "Whittier",
+     "country": "US",
+     "distinctive_music": "5QOpvRTgTqCqrwItWX7ZAi",
+     "lat": 33.9748932,
+     "long": -118.0336974
+  },{
+     "city": "Caloocan",
+     "country": "PH",
+     "distinctive_music": "2R2MROycKOXpMnZywbgtQw",
+     "lat": 14.6571285,
+     "long": 120.984107
+  },{
+     "city": "Santa Barbara",
+     "country": "US",
+     "distinctive_music": "0uyX6OnrrDlO2rwAlmDRiD",
+     "lat": 34.4221319,
+     "long": -119.7026672
+  },{
+     "city": "Pittsburgh",
+     "country": "US",
+     "distinctive_music": "7iGREUHOTdfu68mnq3FHnS",
+     "lat": 40.4416941,
+     "long": -79.990086
+  },{
+     "city": "Skovde",
+     "country": "SE",
+     "distinctive_music": "1u0fQNSSPYfwiVsmLpSQy8",
+     "lat": 58.3898453,
+     "long": 13.8443792
+  },{
+     "city": "Indianapolis",
+     "country": "US",
+     "distinctive_music": "04ocWIF2TsDFdwJaEYqaO8",
+     "lat": 39.7683331,
+     "long": -86.1583501
+  },{
+     "city": "Coimbra",
+     "country": "PT",
+     "distinctive_music": "5qsIyZiX3A1HtnIbZ3Zi34",
+     "lat": 40.2109801,
+     "long": -8.4292056
+  },{
+     "city": "Atlanta",
+     "country": "US",
+     "distinctive_music": "2t6uU8AELDRclkCaw1vydr",
+     "lat": 33.7490987,
+     "long": -84.3901848
+  },{
+     "city": "Bronx",
+     "country": "US",
+     "distinctive_music": "1y6JurWL0Tkr7to82qkQjY",
+     "lat": 40.8570333,
+     "long": -73.8366961
+  },{
+     "city": "Las Pinas City",
+     "country": "PH",
+     "distinctive_music": "6siP4YjRZHIAZzD2u92989",
+     "lat": 14.4331226,
+     "long": 120.9846734
+  },{
+     "city": "Baltimore",
+     "country": "US",
+     "distinctive_music": "4tViTq1oyO0k4d4EUjhEXA",
+     "lat": 39.2908816,
+     "long": -76.6107589
+  },{
+     "city": "Cincinnati",
+     "country": "US",
+     "distinctive_music": "5KTa93DBHCyAoXvQYKURMq",
+     "lat": 39.1014537,
+     "long": -84.5124601
+  },{
+     "city": "Ypsilanti",
+     "country": "US",
+     "distinctive_music": "6swmJQYvByMCurvI7kBPWD",
+     "lat": 42.2411499,
+     "long": -83.6129938
+  },{
+     "city": "Visby",
+     "country": "SE",
+     "distinctive_music": "7b2sHhWbjmm4PUslzOOot6",
+     "lat": 57.6379361,
+     "long": 18.297982
+  },{
+     "city": "Jacksonville",
+     "country": "US",
+     "distinctive_music": "788Q72kPvcaBb5bohOT1NW",
+     "lat": 30.3321838,
+     "long": -81.6556509
+  },{
+     "city": "Hyattsville",
+     "country": "US",
+     "distinctive_music": "6PofLfoHGqf6mKJOl62mIM",
+     "lat": 38.9529849,
+     "long": -76.9408753
+  },{
+     "city": "Waco",
+     "country": "US",
+     "distinctive_music": "27ZNy2OIZuGt5AjH7hBvDo",
+     "lat": 31.549333,
+     "long": -97.1466694
+  },{
+     "city": "Jersey City",
+     "country": "US",
+     "distinctive_music": "06GPCnWBd4PKRTBcDjgnvk",
+     "lat": 40.7281575,
+     "long": -74.0776416
+  },{
+     "city": "Charlottesville",
+     "country": "US",
+     "distinctive_music": "0b0cY4unu7kEPBRUK4erAn",
+     "lat": 38.029306,
+     "long": -78.476678
+  },{
+     "city": "Bakersfield",
+     "country": "US",
+     "distinctive_music": "4yAdCZuEBd97qGqIkveY3x",
+     "lat": 35.3738712,
+     "long": -119.0194638
+  },{
+     "city": "Hayward",
+     "country": "US",
+     "distinctive_music": "3p16COMdGfTnvgZz1cVeYj",
+     "lat": 37.6688205,
+     "long": -122.0807963
+  },{
+     "city": "Umea",
+     "country": "SE",
+     "distinctive_music": "4hXBjS7PnvAUSLrva7IIoh",
+     "lat": 63.8256568,
+     "long": 20.2630745
+  },{
+     "city": "Norrkoping",
+     "country": "SE",
+     "distinctive_music": "506UOCwl7VN5CfTZzJPth7",
+     "lat": 58.5909124,
+     "long": 16.1903511
+  },{
+     "city": "Washington",
+     "country": "US",
+     "distinctive_music": "5QdhMD4B23dfqzHtqXnN3R",
+     "lat": 38.8949549,
+     "long": -77.0366455
+  },{
+     "city": "Jonkoping",
+     "country": "SE",
+     "distinctive_music": "6wpSL2wIb1WjrFD6UeIAtO",
+     "lat": 57.7814709,
+     "long": 14.1627579
+  },{
+     "city": "Sacramento",
+     "country": "US",
+     "distinctive_music": "0j5hUbGAUW498z9VQw5rgd",
+     "lat": 38.5815719,
+     "long": -121.4943995
+  },{
+     "city": "Salt Lake City",
+     "country": "US",
+     "distinctive_music": "6QDOSi0WJlVl1icF6F37vd",
+     "lat": 40.7670126,
+     "long": -111.8904307
+  },{
+     "city": "Omaha",
+     "country": "US",
+     "distinctive_music": "4H4ukojrVnXXDtEIkKVbeA",
+     "lat": 41.2587317,
+     "long": -95.9378731
+  },{
+     "city": "Oakland",
+     "country": "US",
+     "distinctive_music": "5pxaitF73VFwUHr9WqLUqs",
+     "lat": 37.8044557,
+     "long": -122.2713562
+  },{
+     "city": "Fort Lauderdale",
+     "country": "US",
+     "distinctive_music": "78zVBGEWYaRW6vGHqBc3o7",
+     "lat": 26.1223084,
+     "long": -80.1433785
+  },{
+     "city": "Buffalo",
+     "country": "US",
+     "distinctive_music": "4StWFoCs3vp4gDxAGCwybU",
+     "lat": 42.8867166,
+     "long": -78.8783921
+  },{
+     "city": "Christchurch",
+     "country": "NZ",
+     "distinctive_music": "15ukNOjp3jDNYi8H5FaLKV",
+     "lat": -43.5309549,
+     "long": 172.6366455
+  },{
+     "city": "Memphis",
+     "country": "US",
+     "distinctive_music": "3g8F6rLZY1VLSv5pQ7Eqyb",
+     "lat": 35.1490215,
+     "long": -90.0516284
+  },{
+     "city": "Stavanger",
+     "country": "NO",
+     "distinctive_music": "3l4DhJRjTW8CCYJbKE964j",
+     "lat": 58.9680427,
+     "long": 5.7324722
+  },{
+     "city": "Ames",
+     "country": "US",
+     "distinctive_music": "32fZQu37D5rbAgyeeIKBOL",
+     "lat": 42.0267703,
+     "long": -93.6170553
+  },{
+     "city": "Manila",
+     "country": "PH",
+     "distinctive_music": "66rBomolIElDGDVhyvc7fB",
+     "lat": 14.5906216,
+     "long": 120.9799696
+  },{
+     "city": "San Antonio",
+     "country": "US",
+     "distinctive_music": "51lrQWK50BVtj3racihrCL",
+     "lat": 29.4246002,
+     "long": -98.4951404
+  },{
+     "city": "Philadelphia",
+     "country": "US",
+     "distinctive_music": "3DADMO52adSMECoge0Ic7R",
+     "lat": 39.9523993,
+     "long": -75.1635898
+  },{
+     "city": "Orebro",
+     "country": "SE",
+     "distinctive_music": "4ssUsDq2VzwMwMBX9PHcLq",
+     "lat": 59.2747378,
+     "long": 15.2149988
+  },{
+     "city": "Mandaluyong City",
+     "country": "PH",
+     "distinctive_music": "0VJnU1753mXS8nJnIAUukD",
+     "lat": 14.5700415,
+     "long": 121.0514914
+  },{
+     "city": "Makati",
+     "country": "PH",
+     "distinctive_music": "1mOELd5JsRSNLx0YcDaS7i",
+     "lat": 14.5545947,
+     "long": 121.0214079
+  },{
+     "city": "San Diego",
+     "country": "US",
+     "distinctive_music": "2fZYvfo7EowvA9B8SQZb6M",
+     "lat": 32.7174209,
+     "long": -117.1627713
+  },{
+     "city": "Paranaque",
+     "country": "PH",
+     "distinctive_music": "6CfQd3MmSzjmL3cSEgOfwF",
+     "lat": 14.5007016,
+     "long": 120.9915488
+  },{
+     "city": "Phoenix",
+     "country": "US",
+     "distinctive_music": "3wEehxo9OFVYfTvdf1PQwW",
+     "lat": 33.4485866,
+     "long": -112.0773455
+  },{
+     "city": "Bacoor",
+     "country": "PH",
+     "distinctive_music": "148qTDLEhw8Ryn23grlOVB",
+     "lat": 14.4206407,
+     "long": 120.9698796
+  },{
+     "city": "Quezon City",
+     "country": "PH",
+     "distinctive_music": "2ydams7eMWnC4OlHWm7JAS",
+     "lat": 14.6509905,
+     "long": 121.0486155
+  },{
+     "city": "Spokane",
+     "country": "US",
+     "distinctive_music": "0UePGVJ2kmokExn4VpBnOw",
+     "lat": 47.6579425,
+     "long": -117.4212264
+  },{
+     "city": "Kungsbacka",
+     "country": "SE",
+     "distinctive_music": "0hWzKdDSDRqRUppr74Ekcm",
+     "lat": 57.4888563,
+     "long": 12.0787529
+  },{
+     "city": "Spring",
+     "country": "US",
+     "distinctive_music": "7kyoPCztYyyk9ZTTh9vfSv",
+     "lat": 30.0798826,
+     "long": -95.4172548
+  },{
+     "city": "Tromsø",
+     "country": "NO",
+     "distinctive_music": "5OY7RI7EH5Vb5exYmN3B9T",
+     "lat": 69.6492969,
+     "long": 18.9548489
+  },{
+     "city": "Tønsberg",
+     "country": "NO",
+     "distinctive_music": "3CNaSj8FknbjWiK1dBLhJJ",
+     "lat": 59.2922566,
+     "long": 10.4347706
+  },{
+     "city": "Lidkoping",
+     "country": "SE",
+     "distinctive_music": "3qAKFeNDkhJ1RLSYKTJebN",
+     "lat": 58.5557727,
+     "long": 13.0032064
+  },{
+     "city": "Cambridge",
+     "country": "US",
+     "distinctive_music": "4sRcL7wyIiZvd5ANAmx4lQ",
+     "lat": 42.3750997,
+     "long": -71.1056156
+  },{
+     "city": "Gdansk",
+     "country": "PL",
+     "distinctive_music": "0fzaQXI0htgGTMvyYVBSNa",
+     "lat": 54.3614302,
+     "long": 18.6282334
+  },{
+     "city": "Solna",
+     "country": "SE",
+     "distinctive_music": "3zlWxifYe6knpHuvBvdNUz",
+     "lat": 59.3697845,
+     "long": 18.0103602
+  },{
+     "city": "Vastra Frolunda",
+     "country": "SE",
+     "distinctive_music": "1hzTJYSE5LizC7ZBGaU8VP",
+     "lat": 57.6573915,
+     "long": 11.9101019
+  },{
+     "city": "Drammen",
+     "country": "NO",
+     "distinctive_music": "0Zb2KBT9x9z1tgNGMhu9rN",
+     "lat": 59.7284584,
+     "long": 10.1778206
+  },{
+     "city": "Asuncion",
+     "country": "PY",
+     "distinctive_music": "3xmfSqWgb430012s8G9MAW",
+     "lat": -25.2959915,
+     "long": -57.6311195
+  },{
+     "city": "Nacka",
+     "country": "SE",
+     "distinctive_music": "2QOt7c4n32NVaYJE0v16qA",
+     "lat": 59.2997307,
+     "long": 18.2248629
+  },{
+     "city": "Kongsberg",
+     "country": "NO",
+     "distinctive_music": "1sfH0ZQaCjNk4tCpKRHU63",
+     "lat": 59.5942401,
+     "long": 9.6705666
+  },{
+     "city": "Oklahoma City",
+     "country": "US",
+     "distinctive_music": "46CqbPdGJYUtYF3ateOXhW",
+     "lat": 35.4729886,
+     "long": -97.5170535
+  },{
+     "city": "Arequipa",
+     "country": "PE",
+     "distinctive_music": "7qq6udmWZCMEx0ZG2PZ4n4",
+     "lat": -16.3333329,
+     "long": -71.4999999
+  },{
+     "city": "Albuquerque",
+     "country": "US",
+     "distinctive_music": "7m4LG5LciiTZFaOpFQrhd2",
+     "lat": 35.0841034,
+     "long": -106.650985
+  },{
+     "city": "Baton Rouge",
+     "country": "US",
+     "distinctive_music": "03OmKCbJIISMDLx0Zlm1KJ",
+     "lat": 30.4507462,
+     "long": -91.1545509
+  },{
+     "city": "Lewisville",
+     "country": "US",
+     "distinctive_music": "1d5yQLbbj2kcFS7wfjXil9",
+     "lat": 33.046233,
+     "long": -96.9941739
+  },{
+     "city": "Ostersund",
+     "country": "SE",
+     "distinctive_music": "0SaXfUtmrshCWyCdXCTv8j",
+     "lat": 63.1793655,
+     "long": 14.6357061
+  },{
+     "city": "Alesund",
+     "country": "NO",
+     "distinctive_music": "6KjBJpN4LXBznXjshHftpA",
+     "lat": 62.4597196,
+     "long": 6.2935217
+  },{
+     "city": "Uddevalla",
+     "country": "SE",
+     "distinctive_music": "3CSbcUzJdguyerQEVmlQRC",
+     "lat": 58.3492688,
+     "long": 11.9381798
+  },{
+     "city": "Kristiansand",
+     "country": "NO",
+     "distinctive_music": "4jFssbRbpF1YxG17oz7W6C",
+     "lat": 58.1467082,
+     "long": 7.995766
+  },{
+     "city": "Pasig",
+     "country": "PH",
+     "distinctive_music": "75qanm387kRedLxVBAYGDD",
+     "lat": 14.5605151,
+     "long": 121.0767129
+  },{
+     "city": "Taipei",
+     "country": "TW",
+     "distinctive_music": "3IEaJFuW9nIYSWL7IuTmaX",
+     "lat": 25.0375167,
+     "long": 121.5637
+  },{
+     "city": "Knoxville",
+     "country": "US",
+     "distinctive_music": "6foz7es0Bi6o4Ap5Sk0jbG",
+     "lat": 35.9603948,
+     "long": -83.921026
+  },{
+     "city": "Skelleftea",
+     "country": "SE",
+     "distinctive_music": "6v46uOQd63UYngIUsNLbMl",
+     "lat": 64.742143,
+     "long": 20.9719238
+  },{
+     "city": "Euless",
+     "country": "US",
+     "distinctive_music": "3kC0r04gadfRdV0M1pHr8D",
+     "lat": 32.8465405,
+     "long": -97.0667362
+  },{
+     "city": "Cebu",
+     "country": "PH",
+     "distinctive_music": "4MDvL8eIGO2ZPSS2PrDXgl",
+     "lat": 10.45,
+     "long": 123.84
+  },{
+     "city": "Manisa",
+     "country": "TR",
+     "distinctive_music": "1RijYbXoyon2H5HdWNSY3a",
+     "lat": 38.8574402,
+     "long": 28.0565711
+  },{
+     "city": "Silver Spring",
+     "country": "US",
+     "distinctive_music": "417C1CGBQOq0JYojlUkfaN",
+     "lat": 38.9959081,
+     "long": -77.0288917
+  },{
+     "city": "Malmo",
+     "country": "SE",
+     "distinctive_music": "2c461jSEIu6U6SUDsJZsQJ",
+     "lat": 55.6052931,
+     "long": 13.0001566
+  },{
+     "city": "Irvine",
+     "country": "US",
+     "distinctive_music": "2vkRU6o4A6PqXTz8sLLvXT",
+     "lat": 33.6856969,
+     "long": -117.8259818
+  },{
+     "city": "Provo",
+     "country": "US",
+     "distinctive_music": "6pEZaWdwYXECbWMcu7NVr0",
+     "lat": 40.2338438,
+     "long": -111.6585336
+  },{
+     "city": "Bergen",
+     "country": "NO",
+     "distinctive_music": "3gLQu45nHTRnQJHVpIDe3F",
+     "lat": 60.3943532,
+     "long": 5.325551
+  },{
+     "city": "Marikina",
+     "country": "PH",
+     "distinctive_music": "48lnV5tfSiUwkP00qyHnGZ",
+     "lat": 14.6331084,
+     "long": 121.0993541
+  },{
+     "city": "Ankara",
+     "country": "TR",
+     "distinctive_music": "0LJ8oJVOGfD6ttyXAI2bqY",
+     "lat": 39.9215219,
+     "long": 32.8537929
+  },{
+     "city": "Taoyuan",
+     "country": "TW",
+     "distinctive_music": "496w1fkiO1DPmaOQvjerLr",
+     "lat": 24.993777,
+     "long": 121.3013344
+  },{
+     "city": "Tempe",
+     "country": "US",
+     "distinctive_music": "6B2RNGPZ75MAmtzXqGYdxT",
+     "lat": 33.4144139,
+     "long": -111.9094473
+  },{
+     "city": "Arlington",
+     "country": "US",
+     "distinctive_music": "2MWz5oZb9MkRnfpZ0I90dH",
+     "lat": 32.701939,
+     "long": -97.1057148
+  },{
+     "city": "Lisbon",
+     "country": "PT",
+     "distinctive_music": "2c2Nfd282whPT3XUqPCsNm",
+     "lat": 38.7077926,
+     "long": -9.136506
+  },{
+     "city": "Newark",
+     "country": "US",
+     "distinctive_music": "6Xs4yi8sZpuF7wg69PwMQ6",
+     "lat": 40.735657,
+     "long": -74.1723666
+  },{
+     "city": "Bodø",
+     "country": "NO",
+     "distinctive_music": "5LAKKg3q0cc5fREpQMwb79",
+     "lat": 67.2839476,
+     "long": 14.3825834
+  },{
+     "city": "Lima",
+     "country": "US",
+     "distinctive_music": "1QW2Cfh1TtCJ8SbO6gepWb",
+     "lat": 40.742551,
+     "long": -84.1052255
+  },{
+     "city": "Grand Rapids",
+     "country": "US",
+     "distinctive_music": "4URywIp3m7o9EUaBGGpf0f",
+     "lat": 42.9632405,
+     "long": -85.6678638
+  },{
+     "city": "Bydgoszcz",
+     "country": "PL",
+     "distinctive_music": "1jxgugjJuOnQ7iL1Ua2KZf",
+     "lat": 53.1297462,
+     "long": 18.0293697
+  },{
+     "city": "Sandnes",
+     "country": "NO",
+     "distinctive_music": "23OeTRyE5WU0vbQL9MvvCn",
+     "lat": 58.8516736,
+     "long": 5.7367185
+  },{
+     "city": "Bratislava",
+     "country": "SK",
+     "distinctive_music": "1GT6OpK2yqtO566sB4GEVs",
+     "lat": 48.1359085,
+     "long": 17.1597441
+  },{
+     "city": "Sande",
+     "country": "NO",
+     "distinctive_music": "3zWtuQGSYPShFPIvtP6iOq",
+     "lat": 59.5893931,
+     "long": 10.2272048
+  },{
+     "city": "Molde",
+     "country": "NO",
+     "distinctive_music": "54TZQP7C7NT8NWHvUROps8",
+     "lat": 62.7509137,
+     "long": 7.3547745
+  },{
+     "city": "Montevideo",
+     "country": "UY",
+     "distinctive_music": "1k7NocxVgw0EwFoXXWRkyd",
+     "lat": -34.9059038,
+     "long": -56.1913568
+  },{
+     "city": "Tacoma",
+     "country": "US",
+     "distinctive_music": "1oBVfh3NmVmBw2dO9BI1cl",
+     "lat": 47.2495798,
+     "long": -122.4398745
+  },{
+     "city": "Wroclaw",
+     "country": "PL",
+     "distinctive_music": "74HJUQyVWXj1DZ1D0JakSt",
+     "lat": 51.1089776,
+     "long": 17.0326689
+  },{
+     "city": "Eindhoven",
+     "country": "NL",
+     "distinctive_music": "0j8IVhdEAObpUmTEo3jODk",
+     "lat": 51.4485569,
+     "long": 5.4501225
+  },{
+     "city": "Birmingham",
+     "country": "US",
+     "distinctive_music": "2WYhlc3Qyaln5OO9swIbFJ",
+     "lat": 33.5206824,
+     "long": -86.8024325
+  },{
+     "city": "Jessheim",
+     "country": "NO",
+     "distinctive_music": "4fqlIiVKPMi8Dp951qSFhl",
+     "lat": 60.1445903,
+     "long": 11.1724604
+  },{
+     "city": "Columbia",
+     "country": "US",
+     "distinctive_music": "17fzDcj9xPuGZOEkRknqZD",
+     "lat": 34.0007493,
+     "long": -81.0343312
+  },{
+     "city": "Porsgrunn",
+     "country": "NO",
+     "distinctive_music": "4RzXztWEt4RefTfjJ782lE",
+     "lat": 59.1044599,
+     "long": 9.7339622
+  },{
+     "city": "El Paso",
+     "country": "US",
+     "distinctive_music": "6qrHBQlFZUVCEAAG5zcRcs",
+     "lat": 31.7600372,
+     "long": -106.4872869
+  },{
+     "city": "Lincoln",
+     "country": "US",
+     "distinctive_music": "5cQsbkbekJyN9TRFpSOHSM",
+     "lat": 40.8,
+     "long": -96.6678209
+  },{
+     "city": "Karlskrona",
+     "country": "SE",
+     "distinctive_music": "1ylUg0NScJAOoMUcLSGaE0",
+     "lat": 56.1621073,
+     "long": 15.5866422
+  },{
+     "city": "Hamilton",
+     "country": "NZ",
+     "distinctive_music": "1Y9WZk0iYqKMdxO76jOJh0",
+     "lat": -37.7876213,
+     "long": 175.2813186
+  },{
+     "city": "Ski",
+     "country": "NO",
+     "distinctive_music": "0829hqE1Ccw8kqjfgrfnVO",
+     "lat": 59.7251715,
+     "long": 10.8933753
+  },{
+     "city": "Namsos",
+     "country": "NO",
+     "distinctive_music": "4lnDorTqnf0XLWauT6EfaC",
+     "lat": 64.4858834,
+     "long": 11.4133476
+  },{
+     "city": "Alingsas",
+     "country": "SE",
+     "distinctive_music": "1ZPPx6NkzEPgURxVWMFLDf",
+     "lat": 57.9813781,
+     "long": 12.5166065
+  },{
+     "city": "Katy",
+     "country": "US",
+     "distinctive_music": "2TGyU3Bop1htx0QOKBCMtQ",
+     "lat": 29.7857853,
+     "long": -95.8243955
+  },{
+     "city": "Akersberga",
+     "country": "SE",
+     "distinctive_music": "51P5toTnXM0yC796sziis4",
+     "lat": 59.4823516,
+     "long": 18.2943981
+  },{
+     "city": "As",
+     "country": "NO",
+     "distinctive_music": "2Izyebnc2iIJAbdvsxsrgB",
+     "lat": 59.6792808,
+     "long": 10.7741636
+  },{
+     "city": "Grimstad",
+     "country": "NO",
+     "distinctive_music": "4MnsTRtwW2PiL9WI0ZMgdW",
+     "lat": 58.2843151,
+     "long": 8.7087706
+  },{
+     "city": "Zoetermeer",
+     "country": "NL",
+     "distinctive_music": "5gZSquFNGHQoMduRSF0soq",
+     "lat": 52.0622891,
+     "long": 4.4877546
+  },{
+     "city": "San Leandro",
+     "country": "US",
+     "distinctive_music": "3FA0OM3bGtUFeJc627gKBD",
+     "lat": 37.7249296,
+     "long": -122.1560767
+  },{
+     "city": "Fort Collins",
+     "country": "US",
+     "distinctive_music": "5KHySYxjxvajs5IqIY5N4R",
+     "lat": 40.5508527,
+     "long": -105.0668084
+  },{
+     "city": "Louisville",
+     "country": "US",
+     "distinctive_music": "3cXv82ZElKQOg4llxBK3Py",
+     "lat": 38.2542376,
+     "long": -85.7594069
+  },{
+     "city": "Stone Mountain",
+     "country": "US",
+     "distinctive_music": "0wU3k2pGTScxcks3Bawumm",
+     "lat": 33.8062166,
+     "long": -84.1457504
+  },{
+     "city": "Springfield",
+     "country": "US",
+     "distinctive_music": "5zldU6jjnyMU8f0NzCydjA",
+     "lat": 39.7989763,
+     "long": -89.6443687
+  },{
+     "city": "Wellington",
+     "country": "NZ",
+     "distinctive_music": "4wHVoxChmVXHhHtT0MwOIR",
+     "lat": -41.2887638,
+     "long": 174.7772239
+  },{
+     "city": "Kristiansund",
+     "country": "NO",
+     "distinctive_music": "0VV9JzoQA1ItElOB9H1vRS",
+     "lat": 63.2141178,
+     "long": 7.5569982
+  },{
+     "city": "Sarpsborg",
+     "country": "NO",
+     "distinctive_music": "372hNQnPILOCw71zW50gWy",
+     "lat": 59.2538105,
+     "long": 11.2294959
+  },{
+     "city": "Halden",
+     "country": "NO",
+     "distinctive_music": "3mQldXT5WgyEoX59UkGmP2",
+     "lat": 59.0692831,
+     "long": 11.5353981
+  },{
+     "city": "Gjøvik",
+     "country": "NO",
+     "distinctive_music": "1XaaN0OZ3G9a9YBBn5ScoC",
+     "lat": 60.8776887,
+     "long": 10.4790718
+  },{
+     "city": "Garland",
+     "country": "US",
+     "distinctive_music": "0V086WJQ4hvzAbUoVMjE5r",
+     "lat": 32.912624,
+     "long": -96.6388832
+  },{
+     "city": "Ann Arbor",
+     "country": "US",
+     "distinctive_music": "2lJ39UXqkmjf88Pb0jb3YM",
+     "lat": 42.2681569,
+     "long": -83.731229
+  },{
+     "city": "Auckland",
+     "country": "NZ",
+     "distinctive_music": "4HHBdiDnaNOE4O5mM0Xqlu",
+     "lat": -36.8534664,
+     "long": 174.7655514
+  },{
+     "city": "Imus",
+     "country": "PH",
+     "distinctive_music": "7hYwa7xPIbRil5zP45Vxuz",
+     "lat": 14.4021133,
+     "long": 120.9323667
+  },{
+     "city": "Mesquite",
+     "country": "US",
+     "distinctive_music": "2R4ZzUSCujN7YHmQpVn4AP",
+     "lat": 32.7666103,
+     "long": -96.5994719
+  },{
+     "city": "Kent",
+     "country": "US",
+     "distinctive_music": "5ExdtRBpKcFMQM5KrZSl7Y",
+     "lat": 41.1536674,
+     "long": -81.3578859
+  },{
+     "city": "San Juan",
+     "country": "PH",
+     "distinctive_music": "2x0L7yj7kwlHUiI6modWFg",
+     "lat": 9.074972,
+     "long": 123.471813
+  },{
+     "city": "Tauranga",
+     "country": "NZ",
+     "distinctive_music": "0sk6lX6WlPIFDJLQ7r6czI",
+     "lat": -37.6859005,
+     "long": 176.167505
+  },{
+     "city": "Panama",
+     "country": "PA",
+     "distinctive_music": "1Rvme5tNlKlTpUGWqgptg8",
+     "lat": 8.3096067,
+     "long": -81.3066245
+  },{
+     "city": "Columbia",
+     "country": "US",
+     "distinctive_music": "17fzDcj9xPuGZOEkRknqZD",
+     "lat": 34.0007493,
+     "long": -81.0343312
+  },{
+     "city": "Paramount",
+     "country": "US",
+     "distinctive_music": "2D3ZVLB0Yoz3eatw6Rr0f7",
+     "lat": 33.898917,
+     "long": -118.1710049
+  },{
+     "city": "Amersfoort",
+     "country": "NL",
+     "distinctive_music": "0zUe2fFXHBEQxbzRojLhFd",
+     "lat": 52.1562499,
+     "long": 5.3896944
+  },{
+     "city": "Askim",
+     "country": "NO",
+     "distinctive_music": "7dEeqpzEPezz5ljRa89me7",
+     "lat": 59.597149,
+     "long": 11.1715257
+  },{
+     "city": "Svedala",
+     "country": "SE",
+     "distinctive_music": "0NB3gHOfF1kH70JqS02V6F",
+     "lat": 55.5152421,
+     "long": 13.2384358
+  },{
+     "city": "San Juan",
+     "country": "US",
+     "distinctive_music": "12QYjDFw6dfOGy5pXQcsKC",
+     "lat": 18.3842391,
+     "long": -66.0534399
+  },{
+     "city": "Hamar",
+     "country": "NO",
+     "distinctive_music": "61GwIfRf9lHG0GMEEh0bvN",
+     "lat": 61.0026496,
+     "long": 11.1632514
+  },{
+     "city": "Maastricht",
+     "country": "NL",
+     "distinctive_music": "0dpaVeBdZkSWovtQJHwXNK",
+     "lat": 50.8579855,
+     "long": 5.6969882
+  },{
+     "city": "Ornskoldsvik",
+     "country": "SE",
+     "distinctive_music": "4NCkjlioBsOcQclou67UeE",
+     "lat": 63.2888613,
+     "long": 18.7160209
+  },{
+     "city": "Alphen Aan Den Rijn",
+     "country": "NL",
+     "distinctive_music": "1IkIRI6821IAI20r6ghVUJ",
+     "lat": 52.1343369,
+     "long": 4.6561357
+  },{
+     "city": "Bursa",
+     "country": "TR",
+     "distinctive_music": "2OH34ph4hjVN3XPYz3p2I5",
+     "lat": 40.1827061,
+     "long": 29.0667635
+  },{
+     "city": "Adana",
+     "country": "TR",
+     "distinctive_music": "3E597lyXSrUR3c6nLIV0hK",
+     "lat": 37.003277,
+     "long": 35.3261219
+  },{
+     "city": "Sandviken",
+     "country": "SE",
+     "distinctive_music": "33xYBAkV2yJswRP5bS3mL3",
+     "lat": 60.619422,
+     "long": 16.7724214
+  },{
+     "city": "Amsterdam",
+     "country": "NL",
+     "distinctive_music": "2ifz20E9OmNq4bwiM4Ljwu",
+     "lat": 52.3745403,
+     "long": 4.8979755
+  },{
+     "city": "Dordrecht",
+     "country": "NL",
+     "distinctive_music": "5ILeJUo9AjIbWVuoOn3BPQ",
+     "lat": 51.7958812,
+     "long": 4.6779351
+  },{
+     "city": "Lexington",
+     "country": "US",
+     "distinctive_music": "1XECJmgGOraI0x6AZ9oQZT",
+     "lat": 38.0464066,
+     "long": -84.4970392
+  },{
+     "city": "Zaandam",
+     "country": "NL",
+     "distinctive_music": "6vBfyWA2jXdaml8A8QER3G",
+     "lat": 52.4503062,
+     "long": 4.8159442
+  },{
+     "city": "Kongsvinger",
+     "country": "NO",
+     "distinctive_music": "1iH2AHyX5pcTEIh4ip05GH",
+     "lat": 60.1880892,
+     "long": 12.2153111
+  },{
+     "city": "Tijuana",
+     "country": "MX",
+     "distinctive_music": "4kFFDIVGtnbhdKZwdxVUhG",
+     "lat": 32.5008626,
+     "long": -116.9641656
+  },{
+     "city": "Penang",
+     "country": "MY",
+     "distinctive_music": "08Y4tTI9yieXqojLujkIBv",
+     "lat": 5.4065013,
+     "long": 100.2559077
+  },{
+     "city": "Sodertalje",
+     "country": "SE",
+     "distinctive_music": "4XPpKTcE3JwZ8AN8sNH0DA",
+     "lat": 59.1964289,
+     "long": 17.6271663
+  },{
+     "city": "New Orleans",
+     "country": "US",
+     "distinctive_music": "7elQoMcxyrYOU4MI6ken8Y",
+     "lat": 29.9499323,
+     "long": -90.0701155
+  },{
+     "city": "Monterrey",
+     "country": "MX",
+     "distinctive_music": "3pJvSuqEOAaMjVzA5gUttv",
+     "lat": 25.6397836,
+     "long": -100.2931015
+  },{
+     "city": "Apeldoorn",
+     "country": "NL",
+     "distinctive_music": "7nhuxMtJZHgGmlfh45jXUH",
+     "lat": 52.2156457,
+     "long": 5.9639485
+  },{
+     "city": "Huddinge",
+     "country": "SE",
+     "distinctive_music": "6zkrwi1QsR9MffOsC7J1Fp",
+     "lat": 59.2149145,
+     "long": 18.0531789
+  },{
+     "city": "Eskisehir",
+     "country": "TR",
+     "distinctive_music": "5oK4YIYfHxQb6azMA1fsYg",
+     "lat": 39.7688564,
+     "long": 30.5216465
+  },{
+     "city": "Gavle",
+     "country": "SE",
+     "distinctive_music": "6Xx4NJBcrwhCHefU79lIuS",
+     "lat": 60.6750132,
+     "long": 17.1467019
+  },{
+     "city": "Mesa",
+     "country": "US",
+     "distinctive_music": "7yCHCnDBIJXIXauiQZSMoU",
+     "lat": 33.4141912,
+     "long": -111.8331392
+  },{
+     "city": "Mandaluyong",
+     "country": "PH",
+     "distinctive_music": "38g8uczTeZFkudNhcvWNGB",
+     "lat": 14.5774598,
+     "long": 121.0334694
+  },{
+     "city": "Puebla",
+     "country": "MX",
+     "distinctive_music": "45o8TKFPxd6mBk9fRh6QZe",
+     "lat": 18.833333,
+     "long": -97.9999999
+  },{
+     "city": "Pitea",
+     "country": "SE",
+     "distinctive_music": "6VHAv8nsACrKC81iyMSoEq",
+     "lat": 65.3134764,
+     "long": 21.4899394
+  },{
+     "city": "Varberg",
+     "country": "SE",
+     "distinctive_music": "7kjF3fdX926qISApA5xGpk",
+     "lat": 57.1057412,
+     "long": 12.2502949
+  },{
+     "city": "Boras",
+     "country": "SE",
+     "distinctive_music": "42jehC4ZooqbS9RG5Pei3b",
+     "lat": 57.7210839,
+     "long": 12.9407407
+  },{
+     "city": "Toluca",
+     "country": "MX",
+     "distinctive_music": "55xRa3TCxX6Uv2cKVrDcdV",
+     "lat": 19.292545,
+     "long": -99.6569006
+  },{
+     "city": "Orlando",
+     "country": "US",
+     "distinctive_music": "3GZrfebvyFZCIwNlzi6IMj",
+     "lat": 28.5421175,
+     "long": -81.3790461
+  },{
+     "city": "Levanger",
+     "country": "NO",
+     "distinctive_music": "5n3Z9j89FbV1HvKWoaK8AT",
+     "lat": 63.6965187,
+     "long": 11.2221075
+  },{
+     "city": "Lima",
+     "country": "PE",
+     "distinctive_music": "4bAPnXF75Wq8YZ7UiTV3Ty",
+     "lat": -12.0621064,
+     "long": -77.0365255
+  },{
+     "city": "Nijmegen",
+     "country": "NL",
+     "distinctive_music": "52TepzP7KtqnOlV5BmTfdc",
+     "lat": 51.842602,
+     "long": 5.8385196
+  },{
+     "city": "Leeuwarden",
+     "country": "NL",
+     "distinctive_music": "5jqYKO3202mpkdZE7tXC5X",
+     "lat": 53.1997344,
+     "long": 5.8006531
+  },{
+     "city": "Kocaeli",
+     "country": "TR",
+     "distinctive_music": "2BFjNxNUpAyLvYn7FXpJl4",
+     "lat": 40.8216536,
+     "long": 29.9507184
+  },{
+     "city": "Istanbul",
+     "country": "TR",
+     "distinctive_music": "6d4VetcBureS2kT9S7HPXF",
+     "lat": 41.0096334,
+     "long": 28.9651646
+  },{
+     "city": "Arnhem",
+     "country": "NL",
+     "distinctive_music": "3ZovvG8JEKOuH2uctezYIh",
+     "lat": 51.9846929,
+     "long": 5.9115982
+  },{
+     "city": "Borlange",
+     "country": "SE",
+     "distinctive_music": "5QgpgSxnbnvXNYZ6qz8Iy8",
+     "lat": 60.4856426,
+     "long": 15.4234561
+  },{
+     "city": "Hermosillo",
+     "country": "MX",
+     "distinctive_music": "3i4q8XkMGvnuKgkmHyZxRA",
+     "lat": 29.0894152,
+     "long": -110.9612377
+  },{
+     "city": "Enkoping",
+     "country": "SE",
+     "distinctive_music": "39SsLtzM8o4cQX2JNoVXT5",
+     "lat": 59.6340075,
+     "long": 17.130811
+  },{
+     "city": "Hoofddorp",
+     "country": "NL",
+     "distinctive_music": "255I6xQ7t1jqjr78L2Nx58",
+     "lat": 52.3005585,
+     "long": 4.6753206
+  },{
+     "city": "Steinkjer",
+     "country": "NO",
+     "distinctive_music": "0siTjcm42z2aD6YrvzkcQ0",
+     "lat": 64.1012717,
+     "long": 11.723151
+  },{
+     "city": "Amstelveen",
+     "country": "NL",
+     "distinctive_music": "3VSXFhZH8bUZzbdeC0665z",
+     "lat": 52.2862177,
+     "long": 4.8526493
+  },{
+     "city": "Hialeah",
+     "country": "US",
+     "distinctive_music": "6smkZJmEkkErQjGjnaFVTV",
+     "lat": 25.8575963,
+     "long": -80.2781056
+  },{
+     "city": "Pachuca",
+     "country": "MX",
+     "distinctive_music": "20kOAnUS93mEeF0XBciOIW",
+     "lat": 20.1165413,
+     "long": -98.7413534
+  },{
+     "city": "Culiacan",
+     "country": "MX",
+     "distinctive_music": "5nsqrCEWmJjgC1iaaiPtCq",
+     "lat": 24.8017193,
+     "long": -107.3930506
+  },{
+     "city": "Kuala Lumpur",
+     "country": "MY",
+     "distinctive_music": "3E1mOZcZomEQz2xGTbUZO8",
+     "lat": 3.1570976,
+     "long": 101.7009528
+  },{
+     "city": "Groningen",
+     "country": "NL",
+     "distinctive_music": "1sovhQVUz8lFovpxOKV5qH",
+     "lat": 53.2217925,
+     "long": 6.5582453
+  },{
+     "city": "Konya",
+     "country": "TR",
+     "distinctive_music": "5sADrHxXzVy0FOR47chwpf",
+     "lat": 37.8719963,
+     "long": 32.4844015
+  },{
+     "city": "Vaxjo",
+     "country": "SE",
+     "distinctive_music": "4PY6J4w9m0gfXurJfGq5Y3",
+     "lat": 56.8787183,
+     "long": 14.8094385
+  },{
+     "city": "Shah Alam",
+     "country": "MY",
+     "distinctive_music": "12gsPFwYb7fLVEiUvtf6ah",
+     "lat": 3.0686213,
+     "long": 101.5183418
+  },{
+     "city": "Melaka",
+     "country": "MY",
+     "distinctive_music": "3sLDmUC4LuMd47rMQrgGO8",
+     "lat": 2.2001524,
+     "long": 102.2507207
+  },{
+     "city": "Stockholm",
+     "country": "SE",
+     "distinctive_music": "2hrK0uywgccjXbeYgArX7Q",
+     "lat": 59.3251172,
+     "long": 18.0710935
+  },{
+     "city": "Alta",
+     "country": "NO",
+     "distinctive_music": "14y2p0itssr2VHP3gzwiQJ",
+     "lat": 70.0496275,
+     "long": 23.082535
+  },{
+     "city": "Deventer",
+     "country": "NL",
+     "distinctive_music": "0S5wqiIfH1HrXlW8EctoTz",
+     "lat": 52.2492733,
+     "long": 6.1761306
+  },{
+     "city": "Mo I Rana",
+     "country": "NO",
+     "distinctive_music": "6akw0z4yXBorBUhzv0YOqZ",
+     "lat": 66.3160806,
+     "long": 14.1496722
+  },{
+     "city": "Narvik",
+     "country": "NO",
+     "distinctive_music": "0Z9MTysK8XBuMk9GVRoCtS",
+     "lat": 68.276911,
+     "long": 17.6707639
+  },{
+     "city": "Adrian",
+     "country": "US",
+     "distinctive_music": "0pBb2Wf22JwpoO40653BVe",
+     "lat": 41.8975152,
+     "long": -84.0373053
+  },{
+     "city": "Kuching",
+     "country": "MY",
+     "distinctive_music": "7teu78qjOIEb3jhynjgZau",
+     "lat": 1.560091,
+     "long": 110.3454137
+  },{
+     "city": "Haarlem",
+     "country": "NL",
+     "distinctive_music": "3CDIsjPmnPrpydvIEGCGMi",
+     "lat": 52.3885317,
+     "long": 4.6388048
+  },{
+     "city": "Aurora",
+     "country": "US",
+     "distinctive_music": "75Q55GDCiy0T0LqavrX7UY",
+     "lat": 41.7605849,
+     "long": -88.3200714
+  },{
+     "city": "Morelia",
+     "country": "MX",
+     "distinctive_music": "7zv9G9oKR1hUrZ8ZaTxHSC",
+     "lat": 19.7027684,
+     "long": -101.1923187
+  },{
+     "city": "Haugesund",
+     "country": "NO",
+     "distinctive_music": "5F1DavCFEmfH7rTzXHLgDp",
+     "lat": 59.4154805,
+     "long": 5.2636464
+  },{
+     "city": "Miami",
+     "country": "US",
+     "distinctive_music": "0WBqPsl8GsMqhKDlxxBKz0",
+     "lat": 25.7742658,
+     "long": -80.1936588
+  },{
+     "city": "Katowice",
+     "country": "PL",
+     "distinctive_music": "75xMT9yzkEBZ9yk5IwJmxl",
+     "lat": 50.2598987,
+     "long": 19.0215852
+  },{
+     "city": "Sandefjord",
+     "country": "NO",
+     "distinctive_music": "3atEbzqNDcVGoRQoun5YEk",
+     "lat": 59.0799004,
+     "long": 10.2804322
+  },{
+     "city": "Lund",
+     "country": "SE",
+     "distinctive_music": "3oh61OwIPvDHtRBIZ2X0Zv",
+     "lat": 55.7029296,
+     "long": 13.1929449
+  },{
+     "city": "Delft",
+     "country": "NL",
+     "distinctive_music": "2DCZWc9sIrxOph8dzcXhGD",
+     "lat": 51.9994572,
+     "long": 4.3627245
+  },{
+     "city": "Lodz",
+     "country": "PL",
+     "distinctive_music": "3GUsPvQ86MIsIO2r11sqfR",
+     "lat": 51.7730575,
+     "long": 19.4783822
+  },{
+     "city": "Obregon",
+     "country": "MX",
+     "distinctive_music": "09RXYXAkD196QgSRL4VXC5",
+     "lat": 22.2330951,
+     "long": -97.8196302
+  },{
+     "city": "Taby",
+     "country": "SE",
+     "distinctive_music": "7mN5OddPg7hqZh6H23xdXX",
+     "lat": 59.4615531,
+     "long": 18.0708782
+  },{
+     "city": "Boulder",
+     "country": "US",
+     "distinctive_music": "3YLGajrX7egnilY7i26W7k",
+     "lat": 40.0149856,
+     "long": -105.2705455
+  },{
+     "city": "Reynosa",
+     "country": "MX",
+     "distinctive_music": "6pZo5K39uxVbhSnV9oO0qA",
+     "lat": 25.8366364,
+     "long": -98.3708593
+  },{
+     "city": "Tampico",
+     "country": "MX",
+     "distinctive_music": "4Stb5WGPFzBTqmOIHuMO7G",
+     "lat": 22.2170473,
+     "long": -97.8463661
+  },{
+     "city": "Coatzacoalcos",
+     "country": "MX",
+     "distinctive_music": "3N5fJe43whs36ILoBW07hn",
+     "lat": 18.1367924,
+     "long": -94.3777591
+  },{
+     "city": "Littleton",
+     "country": "US",
+     "distinctive_music": "1xufVgY3Mh6p3KqaztWtUL",
+     "lat": 39.613321,
+     "long": -105.0166497
+  },{
+     "city": "Athens",
+     "country": "US",
+     "distinctive_music": "01ui9d26LVcJKA5MKxcYGI",
+     "lat": 39.3292396,
+     "long": -82.1012554
+  },{
+     "city": "Xalapa",
+     "country": "MX",
+     "distinctive_music": "2d22yJcUGcDM3iBbCTF6Bw",
+     "lat": 19.5274085,
+     "long": -96.9238792
+  },{
+     "city": "Boise",
+     "country": "US",
+     "distinctive_music": "5bEVG5atW9TxNIZzoYb5g3",
+     "lat": 43.61656,
+     "long": -116.2008349
+  },{
+     "city": "Enschede",
+     "country": "NL",
+     "distinctive_music": "1pWHdJjCaWNRsIp66q2Lgb",
+     "lat": 52.2233632,
+     "long": 6.8705957
+  },{
+     "city": "Aveiro",
+     "country": "PT",
+     "distinctive_music": "3lj2pEevHn6D61CTKX91Cx",
+     "lat": 40.640496,
+     "long": -8.653784
+  },{
+     "city": "Irapuato",
+     "country": "MX",
+     "distinctive_music": "7upRSvV31kTz8VRzxaIQAx",
+     "lat": 20.6748936,
+     "long": -101.3885422
+  },{
+     "city": "Victoria",
+     "country": "MX",
+     "distinctive_music": "2W8I3CWmCSm1NpfxQbe5ER",
+     "lat": 23.6889402,
+     "long": -99.1290916
+  },{
+     "city": "Taranto",
+     "country": "IT",
+     "distinctive_music": "4tSZqU5mFEI2Du57XOUM7w",
+     "lat": 40.4712427,
+     "long": 17.2432278
+  },{
+     "city": "Trento",
+     "country": "IT",
+     "distinctive_music": "6YVRNHe3zs7LqkwXvbTZrz",
+     "lat": 46.0664228,
+     "long": 11.1257601
+  },{
+     "city": "Naples",
+     "country": "IT",
+     "distinctive_music": "74unPCRNqKUxCGhE6SegNr",
+     "lat": 40.8359336,
+     "long": 14.2487826
+  },{
+     "city": "Salamanca",
+     "country": "MX",
+     "distinctive_music": "6gzq1JSmF6OrFYBNBYkwgT",
+     "lat": 20.6523245,
+     "long": -101.1668415
+  },{
+     "city": "Norwalk",
+     "country": "US",
+     "distinctive_music": "6tJewJYgVinGbp74FszqGW",
+     "lat": 41.1175966,
+     "long": -73.4078967
+  },{
+     "city": "Poznan",
+     "country": "PL",
+     "distinctive_music": "5aMgWSS5y5IRktipHNOYEW",
+     "lat": 52.4082663,
+     "long": 16.9335199
+  },{
+     "city": "Trieste",
+     "country": "IT",
+     "distinctive_music": "3tCpCFMFYB94WgLiF6y3Sf",
+     "lat": 45.6500335,
+     "long": 13.7706559
+  },{
+     "city": "Cuernavaca",
+     "country": "MX",
+     "distinctive_music": "64eVScP9Sfc3KNZ46NLZI1",
+     "lat": 18.9218274,
+     "long": -99.2342281
+  },{
+     "city": "Marietta",
+     "country": "US",
+     "distinctive_music": "3qDgpyez0VJi9ZVoekGode",
+     "lat": 33.9528472,
+     "long": -84.5496147
+  },{
+     "city": "Tyreso",
+     "country": "SE",
+     "distinctive_music": "5yoeQOb8Otk7NMqsPv46vJ",
+     "lat": 59.2108553,
+     "long": 18.3430408
+  },{
+     "city": "Cainta",
+     "country": "PH",
+     "distinctive_music": "7tZyCQ7NdCgRAmmsB6huka",
+     "lat": 14.5925129,
+     "long": 121.1235305
+  },{
+     "city": "Lillehammer",
+     "country": "NO",
+     "distinctive_music": "7AqCdFMAfUN72H7An5n7PY",
+     "lat": 61.1406986,
+     "long": 10.4323705
+  },{
+     "city": "Kota Kinabalu",
+     "country": "MY",
+     "distinctive_music": "0M4NApLbIYhMZbpGkbHlRj",
+     "lat": 5.9780066,
+     "long": 116.0728988
+  },{
+     "city": "Mexicali",
+     "country": "MX",
+     "distinctive_music": "31yW94pFyo9WUWbPBE3LYd",
+     "lat": 32.6200699,
+     "long": -115.4440697
+  },{
+     "city": "Zacatecas",
+     "country": "MX",
+     "distinctive_music": "3mcGDueHV9HIQcXQX1lkYm",
+     "lat": 23.0000001,
+     "long": -103
+  },{
+     "city": "Rotterdam",
+     "country": "NL",
+     "distinctive_music": "594XW2cN7eFreReSU3HFK9",
+     "lat": 51.927798,
+     "long": 4.4886233
+  },{
+     "city": "Petaling Jaya",
+     "country": "MY",
+     "distinctive_music": "1BxQwBr2NlubToBre04y0C",
+     "lat": 3.1055929,
+     "long": 101.642697
+  },{
+     "city": "Bologna",
+     "country": "IT",
+     "distinctive_music": "3dl2OLICYSnTSpi1wrCHmS",
+     "lat": 44.4936714,
+     "long": 11.3430347
+  },{
+     "city": "Alkmaar",
+     "country": "NL",
+     "distinctive_music": "7t2H7ZfvS5zQHaZZVnfS4e",
+     "lat": 52.6337365,
+     "long": 4.7402032
+  },{
+     "city": "Monza",
+     "country": "IT",
+     "distinctive_music": "6XmS3a2B9oGie46ZojG8k8",
+     "lat": 45.5834418,
+     "long": 9.2735257
+  },{
+     "city": "Almere",
+     "country": "NL",
+     "distinctive_music": "2UOCEdWYkZLUQcyXJZPU4A",
+     "lat": 52.4417588,
+     "long": 5.2093149
+  },{
+     "city": "Saltillo",
+     "country": "MX",
+     "distinctive_music": "3CetJLRWVCPnNeR9Ffg14d",
+     "lat": 25.4192971,
+     "long": -100.9945067
+  },{
+     "city": "Verona",
+     "country": "IT",
+     "distinctive_music": "2jb2QLe1Vgk8uMVsWZOeWY",
+     "lat": 45.4384958,
+     "long": 10.9924122
+  },{
+     "city": "Oslo",
+     "country": "NO",
+     "distinctive_music": "55x1yHC2AcXIwttpo753ox",
+     "lat": 60.0518829,
+     "long": 10.6799603
+  },{
+     "city": "Thessaloniki",
+     "country": "GR",
+     "distinctive_music": "2jM4ZTuuoTHGolB1XPVubz",
+     "lat": 40.6403167,
+     "long": 22.9352716
+  },{
+     "city": "San Luis Potosi",
+     "country": "MX",
+     "distinctive_music": "0CpZYz9KiQkKTtFmm4LOzo",
+     "lat": 22.5000001,
+     "long": -100.5
+  },{
+     "city": "Tuxtla Gutierrez",
+     "country": "MX",
+     "distinctive_music": "1cM49wvRC1hlmseQM9jl9d",
+     "lat": 16.7452184,
+     "long": -93.1418085
+  },{
+     "city": "Durango",
+     "country": "MX",
+     "distinctive_music": "2dRsRSx17wzWYjDe407wfS",
+     "lat": 24.833333,
+     "long": -104.8333329
+  },{
+     "city": "Trelleborg",
+     "country": "SE",
+     "distinctive_music": "21feyhnfUcohcBjjm57vUT",
+     "lat": 55.37592,
+     "long": 13.1461522
+  },{
+     "city": "Larvik",
+     "country": "NO",
+     "distinctive_music": "0qD09dvGJtnpxIEbfKDRlJ",
+     "lat": 59.0263311,
+     "long": 10.0433633
+  },{
+     "city": "Vilnius",
+     "country": "LT",
+     "distinctive_music": "7GE3Qv14JqXRU576VuS3oa",
+     "lat": 54.6870458,
+     "long": 25.2829111
+  },{
+     "city": "Den Haag",
+     "country": "NL",
+     "distinctive_music": "2i1lQUNjc3Kbxl4XhpcqoF",
+     "lat": 52.0799838,
+     "long": 4.3113461
+  },{
+     "city": "Lelystad",
+     "country": "NL",
+     "distinctive_music": "5CnJv3CvbtDOA0OuMfybIx",
+     "lat": 52.5366809,
+     "long": 5.3610715
+  },{
+     "city": "Dublin",
+     "country": "IE",
+     "distinctive_music": "1n0W8NFV4OQBXCU9oZF4eX",
+     "lat": 53.3497645,
+     "long": -6.2602731
+  },{
+     "city": "Uruapan",
+     "country": "MX",
+     "distinctive_music": "35CgzwlYRwWNjkOhB7otl0",
+     "lat": 19.4060434,
+     "long": -102.0342899
+  },{
+     "city": "Mersin",
+     "country": "TR",
+     "distinctive_music": "5btZK1MKCeIFIOaPEzCgwM",
+     "lat": 36.81275,
+     "long": 34.630542
+  },{
+     "city": "Tlaxcala",
+     "country": "MX",
+     "distinctive_music": "71fwga2ONvGcx6FVyOUZHD",
+     "lat": 19.416667,
+     "long": -98.1666669
+  },{
+     "city": "Utrecht",
+     "country": "NL",
+     "distinctive_music": "1fAtstgEx5q8xiiFaZXVdI",
+     "lat": 52.0809517,
+     "long": 5.1276803
+  },{
+     "city": "Villahermosa",
+     "country": "MX",
+     "distinctive_music": "0erw4Jyb5cNakOA6uWX4NM",
+     "lat": 16.2601617,
+     "long": -93.5041702
+  },{
+     "city": "Elverum",
+     "country": "NO",
+     "distinctive_music": "0kETc6XgDDB8gjDKLZPKoy",
+     "lat": 60.9764569,
+     "long": 11.7424729
+  },{
+     "city": "Parma",
+     "country": "IT",
+     "distinctive_music": "0yIXr3uGxXLUOmbsQ3RVAg",
+     "lat": 44.8013678,
+     "long": 10.3280833
+  },{
+     "city": "Cambridge",
+     "country": "GB",
+     "distinctive_music": "6SzsKTvsV3DzCSM110rZa3",
+     "lat": 52.2033051,
+     "long": 0.124862
+  },{
+     "city": "Cuautitlan Izcalli",
+     "country": "MX",
+     "distinctive_music": "4DZAocn0US6PbB18DGabae",
+     "lat": 19.6577015,
+     "long": -99.2322829
+  },{
+     "city": "Molndal",
+     "country": "SE",
+     "distinctive_music": "30qstxG6BsbgMfgY64d6K8",
+     "lat": 57.6564918,
+     "long": 12.0153085
+  },{
+     "city": "Juarez",
+     "country": "MX",
+     "distinctive_music": "3drMdoaxvSyz9g5tFiOdrL",
+     "lat": 17.7006623,
+     "long": -93.1978916
+  },{
+     "city": "Nezahualcoyotl",
+     "country": "MX",
+     "distinctive_music": "4fp6aSFCnsLwO04ZfJIHY4",
+     "lat": 19.4325047,
+     "long": -99.035212
+  },{
+     "city": "Milan",
+     "country": "IT",
+     "distinctive_music": "5Mc2WDyCgHc4plxVWPG9w5",
+     "lat": 45.4667971,
+     "long": 9.1904984
+  },{
+     "city": "Riga",
+     "country": "LV",
+     "distinctive_music": "7f0dYUacJeS805IGzDVvG6",
+     "lat": 56.9493977,
+     "long": 24.1051846
+  },{
+     "city": "Brescia",
+     "country": "IT",
+     "distinctive_music": "5i5mSNUi138rsBtgDyCnxk",
+     "lat": 45.5399392,
+     "long": 10.2204897
+  },{
+     "city": "Pomona",
+     "country": "US",
+     "distinctive_music": "41Wot6RTsj0HsvoouyURpn",
+     "lat": 34.0553813,
+     "long": -117.7517495
+  },{
+     "city": "Guanajuato",
+     "country": "MX",
+     "distinctive_music": "0tav6YLtkjWyipOh2EsHx2",
+     "lat": 21,
+     "long": -100.9999999
+  },{
+     "city": "Marco",
+     "country": "IT",
+     "distinctive_music": "6e4HsO5KYzYjF1gMtcA5iI",
+     "lat": 46.1635706,
+     "long": 8.511647
+  },{
+     "city": "Mugla",
+     "country": "TR",
+     "distinctive_music": "2d1Di8qsKOnwIDLcKJFn3K",
+     "lat": 37.1642053,
+     "long": 28.2624288
+  },{
+     "city": "Turin",
+     "country": "IT",
+     "distinctive_music": "5ZIV933Y0l76bIRGN24nHM",
+     "lat": 45.0677551,
+     "long": 7.6824892
+  },{
+     "city": "Warsaw",
+     "country": "PL",
+     "distinctive_music": "3v2XKq71BXHqNgKXneiHmt",
+     "lat": 52.2319237,
+     "long": 21.0067265
+  },{
+     "city": "Matamoros",
+     "country": "MX",
+     "distinctive_music": "6oYkAuAHGWPYO5EaZYGjdO",
+     "lat": 25.554056,
+     "long": -97.4911493
+  },{
+     "city": "Horten",
+     "country": "NO",
+     "distinctive_music": "0Syv958D1700CI0kcigKFB",
+     "lat": 59.4079663,
+     "long": 10.4448547
+  },{
+     "city": "Ensenada",
+     "country": "MX",
+     "distinctive_music": "77XgdG24ACXetz2vfXZE9R",
+     "lat": 30.1927661,
+     "long": -115.2314625
+  },{
+     "city": "Zwolle",
+     "country": "NL",
+     "distinctive_music": "7JF3oUnIZxtgpl8FjDmGBd",
+     "lat": 52.5089759,
+     "long": 6.0943765
+  },{
+     "city": "Sterling Heights",
+     "country": "US",
+     "distinctive_music": "5x1HvnWuxNQ2PH0KNiun5k",
+     "lat": 42.5803122,
+     "long": -83.0302032
+  },{
+     "city": "Aguascalientes",
+     "country": "MX",
+     "distinctive_music": "71k2M7dWQYLqmcUFapcpO1",
+     "lat": 22.0000001,
+     "long": -102.5
+  },{
+     "city": "Guadalajara",
+     "country": "MX",
+     "distinctive_music": "75kkQ1mtJJBqHFWaJyxip8",
+     "lat": 20.676143,
+     "long": -103.3469981
+  },{
+     "city": "Merida",
+     "country": "MX",
+     "distinctive_music": "07EMZRNQFniCq92GKoz6LW",
+     "lat": 20.967141,
+     "long": -89.6236999
+  },{
+     "city": "Pisa",
+     "country": "IT",
+     "distinctive_music": "4yiy7sBe81SXyAzKUIQ2kF",
+     "lat": 43.7159395,
+     "long": 10.4018624
+  },{
+     "city": "Guatemala City",
+     "country": "GT",
+     "distinctive_music": "0Cn9FVxhpAjELKbHqYejSl",
+     "lat": 14.6417889,
+     "long": -90.5132238
+  },{
+     "city": "Swansea",
+     "country": "GB",
+     "distinctive_music": "6Fib39QLKs2r1GnDLTNHYZ",
+     "lat": 51.6211442,
+     "long": -3.946775
+  },{
+     "city": "Pompano Beach",
+     "country": "US",
+     "distinctive_music": "3jiQFd5TmTIhgkrWfbfLCD",
+     "lat": 26.2378597,
+     "long": -80.1247666
+  },{
+     "city": "College Station",
+     "country": "US",
+     "distinctive_music": "0xUNFbyI7IRGbG73PE9Sst",
+     "lat": 30.6253463,
+     "long": -96.3271537
+  },{
+     "city": "Vicenza",
+     "country": "IT",
+     "distinctive_music": "6Jn5fAoaUVtHxWOWEqxtQk",
+     "lat": 45.5488306,
+     "long": 11.5478825
+  },{
+     "city": "Como",
+     "country": "IT",
+     "distinctive_music": "4OfGqJdAcXb3fVGwxRipao",
+     "lat": 45.8106805,
+     "long": 9.0863028
+  },{
+     "city": "Helmond",
+     "country": "NL",
+     "distinctive_music": "09vhfFhMrCFU7e9WyRTOHU",
+     "lat": 51.473568,
+     "long": 5.667109
+  },{
+     "city": "Garza Garcia",
+     "country": "MX",
+     "distinctive_music": "5W2KmdEy9MUewlmTZ5hXEh",
+     "lat": 25.7359865,
+     "long": -100.3318715
+  },{
+     "city": "San Pedro",
+     "country": "PH",
+     "distinctive_music": "5BO0zAV0ZPKNQY9XU4owzV",
+     "lat": 14.363668,
+     "long": 121.0531876
+  },{
+     "city": "Ipswich",
+     "country": "GB",
+     "distinctive_music": "0krn55zegii3LqbQugJg6w",
+     "lat": 52.0579495,
+     "long": 1.1526345
+  },{
+     "city": "Harstad",
+     "country": "NO",
+     "distinctive_music": "2muYhZ9T1W9Xjpnih478PZ",
+     "lat": 68.9297383,
+     "long": 16.5209135
+  },{
+     "city": "Colchester",
+     "country": "GB",
+     "distinctive_music": "3vmzAvLmHKHZXBbV2b97HS",
+     "lat": 51.8931303,
+     "long": 0.9046293
+  },{
+     "city": "Metepec",
+     "country": "MX",
+     "distinctive_music": "4hefNzWqy4EkNoLX1LpPzy",
+     "lat": 19.2511338,
+     "long": -99.593728
+  },{
+     "city": "Rome",
+     "country": "IT",
+     "distinctive_music": "2WxMWXBdooAvIG0w4LfrS8",
+     "lat": 41.8935085,
+     "long": 12.4825526
+  },{
+     "city": "Birmingham",
+     "country": "GB",
+     "distinctive_music": "7iuxc8eO0zz0r1j2nh6eaC",
+     "lat": 52.4776875,
+     "long": -1.8948515
+  },{
+     "city": "Puerto Vallarta",
+     "country": "MX",
+     "distinctive_music": "7plZ6xZi4FqiYlGDhaBX08",
+     "lat": 20.6982078,
+     "long": -105.1814499
+  },{
+     "city": "Trondheim",
+     "country": "NO",
+     "distinctive_music": "7Jf6wQK8a5Xl0Z31FhA27l",
+     "lat": 63.4305658,
+     "long": 10.3951929
+  },{
+     "city": "Espoo",
+     "country": "FI",
+     "distinctive_music": "1Y2pxVsiuD6tIY9Bf7ZBfL",
+     "lat": 60.2241869,
+     "long": 24.6603626
+  },{
+     "city": "Honolulu",
+     "country": "US",
+     "distinctive_music": "5FwRaDFo4hgJKh05BF0WFo",
+     "lat": 21.304547,
+     "long": -157.8556763
+  },{
+     "city": "Queretaro",
+     "country": "MX",
+     "distinctive_music": "6gZRP8BHs1QBQRJeIPEbv3",
+     "lat": 20.8542575,
+     "long": -99.8475599
+  },{
+     "city": "Vantaa",
+     "country": "FI",
+     "distinctive_music": "1tLbpLW7ypggeHAVgohjww",
+     "lat": 60.3091871,
+     "long": 25.0364526
+  },{
+     "city": "Oaxaca",
+     "country": "MX",
+     "distinctive_music": "32jQIy2AjDwiZ4N4kRggTa",
+     "lat": 17,
+     "long": -96.4999999
+  },{
+     "city": "Akron",
+     "country": "US",
+     "distinctive_music": "5ANXMnncu0Y6RgWNCZCx5p",
+     "lat": 41.083064,
+     "long": -81.5184849
+  },{
+     "city": "Helsinki",
+     "country": "FI",
+     "distinctive_music": "6wEbgdD2LLJbFes4wcotrg",
+     "lat": 60.1674086,
+     "long": 24.9425683
+  },{
+     "city": "Tilburg",
+     "country": "NL",
+     "distinctive_music": "5fPj8LW4ZgEHGqd1tkxgW6",
+     "lat": 51.5737091,
+     "long": 5.0439311
+  },{
+     "city": "Tlaquepaque",
+     "country": "MX",
+     "distinctive_music": "60zOJhcRTekTCvrWZTPC6m",
+     "lat": 21.1489278,
+     "long": -86.848498
+  },{
+     "city": "Modena",
+     "country": "IT",
+     "distinctive_music": "7DfdjWwfeIVSwEZOPEw0x0",
+     "lat": 44.6458885,
+     "long": 10.9255707
+  },{
+     "city": "Wolverhampton",
+     "country": "GB",
+     "distinctive_music": "548wnBXPcFLxqx9qoWhlo0",
+     "lat": 52.5847651,
+     "long": -2.1275669
+  },{
+     "city": "Colima",
+     "country": "MX",
+     "distinctive_music": "5ZMM6Z5KYWfkuamuNO53SB",
+     "lat": 19.166667,
+     "long": -103.9999999
+  },{
+     "city": "Bradford",
+     "country": "GB",
+     "distinctive_music": "05qdDyGky7VSkHfEAjcemi",
+     "lat": 53.7941567,
+     "long": -1.7494777
+  },{
+     "city": "Pescara",
+     "country": "IT",
+     "distinctive_music": "5rqjsBFpBwkcSXtXbvRcsw",
+     "lat": 42.4645837,
+     "long": 14.2138702
+  },{
+     "city": "Joensuu",
+     "country": "FI",
+     "distinctive_music": "6zglVqGcnneAkPRZD3RzBJ",
+     "lat": 62.6000152,
+     "long": 29.7666591
+  },{
+     "city": "Apodaca",
+     "country": "MX",
+     "distinctive_music": "50KN2U7JV7RpwwiOhKUm9g",
+     "lat": 25.7871006,
+     "long": -100.1850768
+  },{
+     "city": "Oxford",
+     "country": "GB",
+     "distinctive_music": "4ak1z4c8TkjHdjhamazAAN",
+     "lat": 51.7520131,
+     "long": -1.2578498
+  },{
+     "city": "Turku",
+     "country": "FI",
+     "distinctive_music": "2H7UfmuKe1gHL5Ixs9Zmrl",
+     "lat": 60.4517531,
+     "long": 22.2670522
+  },{
+     "city": "Bergamo",
+     "country": "IT",
+     "distinctive_music": "4aG73wxWM9KKhs7uyRqwV5",
+     "lat": 45.6945115,
+     "long": 9.669839
+  },{
+     "city": "Peterborough",
+     "country": "GB",
+     "distinctive_music": "1dAGZntT8epd3Z6MHVQvWt",
+     "lat": 52.5738875,
+     "long": -0.24167
+  },{
+     "city": "Leon",
+     "country": "MX",
+     "distinctive_music": "1vctNXMnUPIL4bRIq0QzHj",
+     "lat": 21.0973352,
+     "long": -101.6476422
+  },{
+     "city": "Denizli",
+     "country": "TR",
+     "distinctive_music": "3CPpUYBXQBS0C0BQXsRC34",
+     "lat": 37.7715165,
+     "long": 29.0863125
+  },{
+     "city": "Bath",
+     "country": "GB",
+     "distinctive_music": "0AfiiV2gfo1jIByH9IWD93",
+     "lat": 51.3813864,
+     "long": -2.3596962
+  },{
+     "city": "Gloucester",
+     "country": "GB",
+     "distinctive_music": "2zckaFkvVzhjKEn1lCojl0",
+     "lat": 51.8653705,
+     "long": -2.2458191
+  },{
+     "city": "Rennes",
+     "country": "FR",
+     "distinctive_music": "1cQE84uu1oNTuNK9NrQEiF",
+     "lat": 48.1113387,
+     "long": -1.6800197
+  },{
+     "city": "Nuevo Laredo",
+     "country": "MX",
+     "distinctive_music": "5W85t5EMNImHXneysh4M9P",
+     "lat": 27.474975,
+     "long": -99.6767431
+  },{
+     "city": "Morelos",
+     "country": "MX",
+     "distinctive_music": "02UktQcyQke7wAhxbfc8hT",
+     "lat": 18.75,
+     "long": -98.9999999
+  },{
+     "city": "Carrollton",
+     "country": "US",
+     "distinctive_music": "65V6780tfegajRYqN6WFgS",
+     "lat": 33.5801103,
+     "long": -85.0766112
+  },{
+     "city": "Moss",
+     "country": "NO",
+     "distinctive_music": "4ohVEMkL0bv8BqkuccePTG",
+     "lat": 59.464916,
+     "long": 10.662288
+  },{
+     "city": "Tulsa",
+     "country": "US",
+     "distinctive_music": "15OcgKOKzObdyKV1GCu9Q9",
+     "lat": 36.1556805,
+     "long": -95.9929112
+  },{
+     "city": "Leicester",
+     "country": "GB",
+     "distinctive_music": "5OruDNStbcSEmFHC0Gil1I",
+     "lat": 52.6367811,
+     "long": -1.1312288
+  },{
+     "city": "Northampton",
+     "country": "GB",
+     "distinctive_music": "3FLfYdUP6AnSMKUUHf3aVI",
+     "lat": 52.2385239,
+     "long": -0.9024929
+  },{
+     "city": "Treviso",
+     "country": "IT",
+     "distinctive_music": "0vm6467YEVKwdvAzvZdsgm",
+     "lat": 45.6658505,
+     "long": 12.2455414
+  },{
+     "city": "Liverpool",
+     "country": "GB",
+     "distinctive_music": "3MxzHxJZBMjYHwvEE7v83y",
+     "lat": 53.4054719,
+     "long": -2.9805391
+  },{
+     "city": "Angers",
+     "country": "FR",
+     "distinctive_music": "3aiJHMNhSOiGUI9TD2OXJ8",
+     "lat": 47.4739884,
+     "long": -0.5515587
+  },{
+     "city": "Angelholm",
+     "country": "SE",
+     "distinctive_music": "3MohaaDPSgy0JaLwiHzpcG",
+     "lat": 56.2429224,
+     "long": 12.8619375
+  },{
+     "city": "Marseille",
+     "country": "FR",
+     "distinctive_music": "4gUWRgmL4ogNAERuGDYIMB",
+     "lat": 43.2961743,
+     "long": 5.3699525
+  },{
+     "city": "Houten",
+     "country": "NL",
+     "distinctive_music": "4qq3lNZfLNwEStbWxd3a4s",
+     "lat": 52.0306156,
+     "long": 5.1612166
+  },{
+     "city": "Genova",
+     "country": "IT",
+     "distinctive_music": "0w5sgWKgDzPAtFu1GYRkKR",
+     "lat": 44.40726,
+     "long": 8.9338624
+  },{
+     "city": "Hameenlinna",
+     "country": "FI",
+     "distinctive_music": "6PQ6cgdCJ0hW0aEa5z8nLS",
+     "lat": 60.9810913,
+     "long": 24.4582641
+  },{
+     "city": "Naucalpan",
+     "country": "MX",
+     "distinctive_music": "319wrRLXJp5Hgmj8aYhXdO",
+     "lat": 19.3548401,
+     "long": -97.8286515
+  },{
+     "city": "Rovaniemi",
+     "country": "FI",
+     "distinctive_music": "2ZdhSTuiS3Sc0R4pWd8YXP",
+     "lat": 66.4976214,
+     "long": 25.7192101
+  },{
+     "city": "Mikkeli",
+     "country": "FI",
+     "distinctive_music": "0qHJ8yonoZi6hSd2RBkH89",
+     "lat": 61.6877956,
+     "long": 27.2726569
+  },{
+     "city": "Seinajoki",
+     "country": "FI",
+     "distinctive_music": "5fa0E1AxCgGMiMlqwSkLjj",
+     "lat": 62.7954104,
+     "long": 22.8442015
+  },{
+     "city": "Dunedin",
+     "country": "NZ",
+     "distinctive_music": "0MIYmuHnh5Gb6cxT1Pah7k",
+     "lat": -45.8739281,
+     "long": 170.503488
+  },{
+     "city": "Bournemouth",
+     "country": "GB",
+     "distinctive_music": "06xKkJuLaWy8VgupG48mRR",
+     "lat": 50.7446703,
+     "long": -1.8579808
+  },{
+     "city": "Leamington Spa",
+     "country": "GB",
+     "distinctive_music": "61DGsWCFcNSMinZLYhqBa6",
+     "lat": 52.2921548,
+     "long": -1.5356985
+  },{
+     "city": "Breda",
+     "country": "NL",
+     "distinctive_music": "4PSGWgTu8CVBjDhZPY7b7S",
+     "lat": 51.5644477,
+     "long": 4.7512297
+  },{
+     "city": "Leeds",
+     "country": "GB",
+     "distinctive_music": "2ipsfne8wCbuKz2cI7A0Ee",
+     "lat": 53.7974185,
+     "long": -1.543794
+  },{
+     "city": "Mazatlan",
+     "country": "MX",
+     "distinctive_music": "6X913w6qdovCfVofXbTrGe",
+     "lat": 23.2234374,
+     "long": -106.4161918
+  },{
+     "city": "Asker",
+     "country": "NO",
+     "distinctive_music": "6WzKjhAA3tyWWhZtSoCZx2",
+     "lat": 59.835928,
+     "long": 10.4571743
+  },{
+     "city": "Reykjavik",
+     "country": "IS",
+     "distinctive_music": "4BiNlIEMpmAGGR3eVEhDDw",
+     "lat": 64.145981,
+     "long": -21.9422366
+  },{
+     "city": "Barcelona",
+     "country": "ES",
+     "distinctive_music": "1BUqSJKAJHR3pyx1tuOKDf",
+     "lat": 41.3825596,
+     "long": 2.1771353
+  },{
+     "city": "Cork",
+     "country": "IE",
+     "distinctive_music": "7MP9B2RvfJ3WgicvuX7U3E",
+     "lat": 51.8979282,
+     "long": -8.4705805
+  },{
+     "city": "Managua",
+     "country": "NI",
+     "distinctive_music": "3qNoiELMsblU8VC1C0D4QU",
+     "lat": 12.1461244,
+     "long": -86.2737169
+  },{
+     "city": "Padua",
+     "country": "IT",
+     "distinctive_music": "5fddSFf8tnSN7QNqIciYDi",
+     "lat": 45.4077172,
+     "long": 11.8734455
+  },{
+     "city": "Chihuahua",
+     "country": "MX",
+     "distinctive_music": "11I6h8nusNjhdJeYxIbAZe",
+     "lat": 28.5000001,
+     "long": -106
+  },{
+     "city": "Arvika",
+     "country": "SE",
+     "distinctive_music": "2agoHS7BNVf5SeBZ7RkISy",
+     "lat": 59.6543555,
+     "long": 12.5916225
+  },{
+     "city": "Hull",
+     "country": "GB",
+     "distinctive_music": "3uTEx5YiRYkyDb6uULN4J5",
+     "lat": 53.7435722,
+     "long": -0.3394757
+  },{
+     "city": "Vaasa",
+     "country": "FI",
+     "distinctive_music": "5g5vSIGGjITdrlmnHYxOBv",
+     "lat": 63.081821,
+     "long": 21.4798124
+  },{
+     "city": "Veracruz",
+     "country": "MX",
+     "distinctive_music": "1xAiEDoNZvCr1BQJFHBZPE",
+     "lat": 19.333333,
+     "long": -96.6666669
+  },{
+     "city": "Sheffield",
+     "country": "GB",
+     "distinctive_music": "5V4Zv8800CiZ4wcP0HqBF4",
+     "lat": 53.3806626,
+     "long": -1.4702277
+  },{
+     "city": "Lincoln",
+     "country": "GB",
+     "distinctive_music": "4dot6sxShNXzLmhKzX4qxZ",
+     "lat": 53.2336301,
+     "long": -0.5392171
+  },{
+     "city": "Bordeaux",
+     "country": "FR",
+     "distinctive_music": "2izGOxdjgX7aA3F516oOQ4",
+     "lat": 44.841225,
+     "long": -0.5800363
+  },{
+     "city": "Edinburgh",
+     "country": "GB",
+     "distinctive_music": "59mVtaEYToEQ9AToHqB0db",
+     "lat": 55.9495628,
+     "long": -3.1914971
+  },{
+     "city": "Newcastle Upon Tyne",
+     "country": "GB",
+     "distinctive_music": "7npO1lMsNyrDXw8HrDJ2Sr",
+     "lat": 54.9770924,
+     "long": -1.6142058
+  },{
+     "city": "Tegucigalpa",
+     "country": "HN",
+     "distinctive_music": "1XnNoL30UlQabXq1PQ0ybE",
+     "lat": 14.0931919,
+     "long": -87.201263
+  },{
+     "city": "Lille",
+     "country": "FR",
+     "distinctive_music": "3XsxmtTZgfO811leei6gaJ",
+     "lat": 50.6305089,
+     "long": 3.0706414
+  },{
+     "city": "Murcia",
+     "country": "ES",
+     "distinctive_music": "5VhBX5F5G82u32pVjEkZsF",
+     "lat": 37.9923795,
+     "long": -1.130543
+  },{
+     "city": "Norwich",
+     "country": "GB",
+     "distinctive_music": "2SEpZY57YCPCKtUtcIZ3K1",
+     "lat": 52.628606,
+     "long": 1.29227
+  },{
+     "city": "Purmerend",
+     "country": "NL",
+     "distinctive_music": "6n8aFMrGVfi3BmFsStTabf",
+     "lat": 52.4997208,
+     "long": 4.96442
+  },{
+     "city": "Portsmouth",
+     "country": "GB",
+     "distinctive_music": "38n7dhS75IA5zoqB1o1afj",
+     "lat": 50.8036831,
+     "long": -1.0756139
+  },{
+     "city": "Ede",
+     "country": "NL",
+     "distinctive_music": "7I7ibycsm404LzOnvauYUz",
+     "lat": 52.0458265,
+     "long": 5.6702011
+  },{
+     "city": "Cuajimalpa",
+     "country": "MX",
+     "distinctive_music": "5pAdbJgaSMJvUxyLhCiL30",
+     "lat": 19.3662902,
+     "long": -99.2009248
+  },{
+     "city": "Torreon",
+     "country": "MX",
+     "distinctive_music": "1tgIfCoUALcjIPBXlr7ur9",
+     "lat": 25.542698,
+     "long": -103.4105129
+  },{
+     "city": "Bayamon",
+     "country": "US",
+     "distinctive_music": "6zd1N8OcNDhyvis27bULO1",
+     "lat": 18.398755,
+     "long": -66.1559563
+  },{
+     "city": "Arendal",
+     "country": "NO",
+     "distinctive_music": "5ny12izds3oEh7BLrh08x4",
+     "lat": 58.4275594,
+     "long": 8.9444668
+  },{
+     "city": "Rouen",
+     "country": "FR",
+     "distinctive_music": "1bdt0Py92i1DLvelspJUXq",
+     "lat": 49.4404591,
+     "long": 1.0939658
+  },{
+     "city": "Milton Keynes",
+     "country": "GB",
+     "distinctive_music": "0h09D1MhfBtSlgqVBYti32",
+     "lat": 52.0429797,
+     "long": -0.7589606
+  },{
+     "city": "Cagliari",
+     "country": "IT",
+     "distinctive_music": "4BhLbKT8JTCQgzimc7RN3e",
+     "lat": 39.2203881,
+     "long": 9.1079057
+  },{
+     "city": "Caen",
+     "country": "FR",
+     "distinctive_music": "6J71di9aDWcbYoSmq8bXuW",
+     "lat": 49.1828008,
+     "long": -0.3690814
+  },{
+     "city": "Leiden",
+     "country": "NL",
+     "distinctive_music": "78hIx3cgckQmJ6eD3THbl3",
+     "lat": 52.1518157,
+     "long": 4.4811089
+  },{
+     "city": "Bari",
+     "country": "IT",
+     "distinctive_music": "720ki4n5DzdW3BygKOcGqo",
+     "lat": 41.1257843,
+     "long": 16.8620293
+  },{
+     "city": "Aberdeen",
+     "country": "GB",
+     "distinctive_music": "2Ok5dlgzR19tJb9sDmXCkT",
+     "lat": 57.1452452,
+     "long": -2.0913744
+  },{
+     "city": "Acapulco",
+     "country": "MX",
+     "distinctive_music": "0Hlj5HhUzQm9wwElcUU8mC",
+     "lat": 16.8602906,
+     "long": -99.876832
+  },{
+     "city": "Preston",
+     "country": "GB",
+     "distinctive_music": "4vGK0QemGuReNtZUaFLAGb",
+     "lat": 53.7589938,
+     "long": -2.7051617
+  },{
+     "city": "Pori",
+     "country": "FI",
+     "distinctive_music": "2Emjrr1PTiOW3HmExm1ByV",
+     "lat": 61.4867236,
+     "long": 21.7910016
+  },{
+     "city": "Tampere",
+     "country": "FI",
+     "distinctive_music": "4oZchHIQYLupTFUKzu8Ekl",
+     "lat": 61.4980214,
+     "long": 23.7603118
+  },{
+     "city": "Warrington",
+     "country": "GB",
+     "distinctive_music": "1UFxOadRNk6gx0iiUSagyb",
+     "lat": 53.4018035,
+     "long": -2.568037
+  },{
+     "city": "Reims",
+     "country": "FR",
+     "distinctive_music": "0jfDheFU7fqUAJBTRrJmHM",
+     "lat": 49.2577886,
+     "long": 4.031926
+  },{
+     "city": "Dijon",
+     "country": "FR",
+     "distinctive_music": "4seqGk7ccTktNuF1Ez50qB",
+     "lat": 47.3215806,
+     "long": 5.0414701
+  },{
+     "city": "Nantes",
+     "country": "FR",
+     "distinctive_music": "6GkXCkt3Gugkwer9PDoy5x",
+     "lat": 47.2186371,
+     "long": -1.5541361
+  },{
+     "city": "Lynchburg",
+     "country": "US",
+     "distinctive_music": "4zlWSVoTr5SS4pd86iysTt",
+     "lat": 37.40088,
+     "long": -79.1844923
+  },{
+     "city": "Pamplona",
+     "country": "ES",
+     "distinctive_music": "5TOd98MFiFqDgBrkDETHd2",
+     "lat": 42.8185502,
+     "long": -1.6444164
+  },{
+     "city": "Malaga",
+     "country": "ES",
+     "distinctive_music": "3UblVnb3WBARz5TYTbd1L5",
+     "lat": 36.7214325,
+     "long": -4.4219508
+  },{
+     "city": "Marbella",
+     "country": "ES",
+     "distinctive_music": "2suMt2vcejGgF9ZLZpkece",
+     "lat": 36.508976,
+     "long": -4.8856199
+  },{
+     "city": "Montpellier",
+     "country": "FR",
+     "distinctive_music": "5kzNSykOHvi02cnXvo6hIz",
+     "lat": 43.6112422,
+     "long": 3.8767337
+  },{
+     "city": "Fuenlabrada",
+     "country": "ES",
+     "distinctive_music": "6U7zgnC0f6WDhnt0zYHPvu",
+     "lat": 40.282476,
+     "long": -3.7923421
+  },{
+     "city": "Salerno",
+     "country": "IT",
+     "distinctive_music": "4KvpqUsncAmWAMYiprNYBz",
+     "lat": 40.6801561,
+     "long": 14.7596754
+  },{
+     "city": "London",
+     "country": "GB",
+     "distinctive_music": "19wzfxZp8hgp16XrLwc12e",
+     "lat": 51.5073219,
+     "long": -0.1276473
+  },{
+     "city": "Walsall",
+     "country": "GB",
+     "distinctive_music": "5DAMMRDBXysitjCD7Nfc9U",
+     "lat": 52.6052449,
+     "long": -1.9704217
+  },{
+     "city": "Salamanca",
+     "country": "ES",
+     "distinctive_music": "3HVBWs4on3dz1lXUh931SN",
+     "lat": 40.9651572,
+     "long": -5.6640181
+  },{
+     "city": "Goteborg",
+     "country": "SE",
+     "distinctive_music": "144nis07DT4re8EY237ZiG",
+     "lat": 57.7072326,
+     "long": 11.9670171
+  },{
+     "city": "Kuopio",
+     "country": "FI",
+     "distinctive_music": "4NrrW0BmHYyD1DUB9h5Jvn",
+     "lat": 62.8241424,
+     "long": 27.5945615
+  },{
+     "city": "Barnet",
+     "country": "GB",
+     "distinctive_music": "4OiIAP4J1lyrL4rQkUERcU",
+     "lat": 51.6487843,
+     "long": -0.1729126
+  },{
+     "city": "Mexico",
+     "country": "MX",
+     "distinctive_music": "1UPDm3wtkwHcoESFu1t0mE",
+     "lat": 22.5000485,
+     "long": -100.0000374
+  },{
+     "city": "Albacete",
+     "country": "ES",
+     "distinctive_music": "77XILvbgVa5rgvyulBbeDY",
+     "lat": 38.9951049,
+     "long": -1.8559612
+  },{
+     "city": "Oulu",
+     "country": "FI",
+     "distinctive_music": "1sMCYfb02geVZ1EASPvFKV",
+     "lat": 65.0118734,
+     "long": 25.4716809
+  },{
+     "city": "Celaya",
+     "country": "MX",
+     "distinctive_music": "1jC4WC1sgji3iZRYeCRpW6",
+     "lat": 20.5225393,
+     "long": -100.8307302
+  },{
+     "city": "Budapest",
+     "country": "HU",
+     "distinctive_music": "4KhdMFLtiZPhkvkikxMx2n",
+     "lat": 47.4983815,
+     "long": 19.0404707
+  },{
+     "city": "Nice",
+     "country": "FR",
+     "distinctive_music": "6QUZRw5GHAbOQmMOmG15eM",
+     "lat": 43.7009358,
+     "long": 7.2683912
+  },{
+     "city": "Vallingby",
+     "country": "SE",
+     "distinctive_music": "0dMlfAEclXUE2VvRfIaxx9",
+     "lat": 59.3659643,
+     "long": 17.8716341
+  },{
+     "city": "Reading",
+     "country": "GB",
+     "distinctive_music": "5prpT3a9kLnML2ExkI8JH6",
+     "lat": 51.4580216,
+     "long": -0.9673726
+  },{
+     "city": "Leganes",
+     "country": "ES",
+     "distinctive_music": "0by4iGZfCbkreiiibQpRcx",
+     "lat": 40.3281942,
+     "long": -3.7652699
+  },{
+     "city": "Exeter",
+     "country": "GB",
+     "distinctive_music": "7KwG5j3gS3TvTbTW1kvk2A",
+     "lat": 50.7256471,
+     "long": -3.526661
+  },{
+     "city": "Granada",
+     "country": "ES",
+     "distinctive_music": "3wQsvmZwhOasIPatnMI5yP",
+     "lat": 37.1830197,
+     "long": -3.6021919
+  },{
+     "city": "Sevilla",
+     "country": "ES",
+     "distinctive_music": "73ay4fvl6yV1tocDa2ar47",
+     "lat": 37.3886303,
+     "long": -5.995317
+  },{
+     "city": "Manchester",
+     "country": "GB",
+     "distinctive_music": "5GctOYnZ47zhiLgdGDhcIT",
+     "lat": 53.4791301,
+     "long": -2.2441008
+  },{
+     "city": "La Paz",
+     "country": "MX",
+     "distinctive_music": "6M8f8E1jeLJZ85KTTR9ndA",
+     "lat": 19.3637685,
+     "long": -98.9463135
+  },{
+     "city": "Zapopan",
+     "country": "MX",
+     "distinctive_music": "3L11cPKOzKS0bwlo8ljj8Z",
+     "lat": 20.7211036,
+     "long": -103.3911246
+  },{
+     "city": "Sabadell",
+     "country": "ES",
+     "distinctive_music": "5qaIgmYUpV6x3gcdQsBfQE",
+     "lat": 41.5421013,
+     "long": 2.1138977
+  },{
+     "city": "Tallinn",
+     "country": "EE",
+     "distinctive_music": "05NniP96kHRdBXUyK3xNG3",
+     "lat": 59.4372155,
+     "long": 24.7453688
+  },{
+     "city": "Halmstad",
+     "country": "SE",
+     "distinctive_music": "0laDltaE4UI7Aum03cMnu7",
+     "lat": 56.6739826,
+     "long": 12.8574827
+  },{
+     "city": "Brighton",
+     "country": "GB",
+     "distinctive_music": "29Eoq3hmouNG7Q1lZFQsDj",
+     "lat": 50.8220399,
+     "long": -0.137406
+  },{
+     "city": "Alicante",
+     "country": "ES",
+     "distinctive_music": "58H7buKVnXHoLIPaXFdJBv",
+     "lat": 38.353738,
+     "long": -0.4901845
+  },{
+     "city": "Jaen",
+     "country": "ES",
+     "distinctive_music": "0bbQ1xaWRIkpKR1WnJrthn",
+     "lat": 37.7728858,
+     "long": -3.7883288
+  },{
+     "city": "Vasteras",
+     "country": "SE",
+     "distinctive_music": "7xwA8wlDYIJzq7XSJaHiAn",
+     "lat": 59.6110992,
+     "long": 16.5463679
+  },{
+     "city": "Vitoria",
+     "country": "ES",
+     "distinctive_music": "6EjGY2g4TZIu3MZ0RwRv1n",
+     "lat": 42.8464529,
+     "long": -2.6724096
+  },{
+     "city": "Guadalupe",
+     "country": "MX",
+     "distinctive_music": "12Ri7Kd2qdUovRLMGlP6Cs",
+     "lat": 18.0497563,
+     "long": -98.1549401
+  },{
+     "city": "Cardiff",
+     "country": "GB",
+     "distinctive_music": "1wLhcIXM4vwbWKxPGC6qUL",
+     "lat": 51.4816546,
+     "long": -3.1791933
+  },{
+     "city": "Venice",
+     "country": "IT",
+     "distinctive_music": "2ikFIFxEMmcPNJhHOG97ut",
+     "lat": 45.4371908,
+     "long": 12.3345899
+  },{
+     "city": "Copenhagen",
+     "country": "DK",
+     "distinctive_music": "6CTcqkj4aUHpvjL1YfjsN8",
+     "lat": 55.6867243,
+     "long": 12.5700724
+  },{
+     "city": "Alborg",
+     "country": "DK",
+     "distinctive_music": "7ESDsv1V1nBzoB1n2bixoX",
+     "lat": 57.0482206,
+     "long": 9.9193939
+  },{
+     "city": "Croydon",
+     "country": "GB",
+     "distinctive_music": "0G4wsG0heXfcUPoK4Fwl0z",
+     "lat": 51.3713049,
+     "long": -0.1019569
+  },{
+     "city": "Samsun",
+     "country": "TR",
+     "distinctive_music": "0v9fZsqoAalKHXV3ZQb266",
+     "lat": 41.2893535,
+     "long": 36.3258984
+  },{
+     "city": "Logrono",
+     "country": "ES",
+     "distinctive_music": "0MoqT4sh5ccXGVFK0fGp2K",
+     "lat": 42.4661196,
+     "long": -2.4396675
+  },{
+     "city": "Holbæk",
+     "country": "DK",
+     "distinctive_music": "6y4CCZub95dm2hVFud2zZu",
+     "lat": 55.7186117,
+     "long": 11.7135474
+  },{
+     "city": "Hvidovre",
+     "country": "DK",
+     "distinctive_music": "2Csjus4We4QhZjcs4QnCV5",
+     "lat": 55.6441712,
+     "long": 12.4772091
+  },{
+     "city": "Jarvenpaa",
+     "country": "FI",
+     "distinctive_music": "4myZhGDw0mnncUS11JWfjr",
+     "lat": 60.4743601,
+     "long": 25.0925118
+  },{
+     "city": "Slagelse",
+     "country": "DK",
+     "distinctive_music": "4OSza48NuPf60phu6iCmTH",
+     "lat": 55.4061196,
+     "long": 11.3525415
+  },{
+     "city": "Lyngby",
+     "country": "DK",
+     "distinctive_music": "7Jc722EwxGWO00kiphLLGQ",
+     "lat": 55.7718649,
+     "long": 12.5051413
+  },{
+     "city": "Johor Bahru",
+     "country": "MY",
+     "distinctive_music": "2GB9CAxouZ36XHyMfA6CPZ",
+     "lat": 1.4953041,
+     "long": 103.7550839
+  },{
+     "city": "Guadalajara",
+     "country": "ES",
+     "distinctive_music": "1gg6IR3vEGxwuWOOMQE8gi",
+     "lat": 40.7399963,
+     "long": -2.5059299
+  },{
+     "city": "Vila Nova De Gaia",
+     "country": "PT",
+     "distinctive_music": "5aRkvVeWfuArTZaJwAXTgb",
+     "lat": 41.0784891,
+     "long": -8.5887275
+  },{
+     "city": "Jyvaskyla",
+     "country": "FI",
+     "distinctive_music": "5M6D92EkFLOOStB9f9OrRf",
+     "lat": 62.2393002,
+     "long": 25.745951
+  },{
+     "city": "Fredrikstad",
+     "country": "NO",
+     "distinctive_music": "0GBYC5Y8DL72UCQOELkZ9P",
+     "lat": 59.184541,
+     "long": 10.8686979
+  },{
+     "city": "Lahti",
+     "country": "FI",
+     "distinctive_music": "2d0TZ8HCX3ArPfaDhNGwrH",
+     "lat": 60.9838761,
+     "long": 25.6561814
+  },{
+     "city": "Søborg",
+     "country": "DK",
+     "distinctive_music": "3cypC1vzGvENLLLVp6CF6I",
+     "lat": 55.736468,
+     "long": 12.5088728
+  },{
+     "city": "Badalona",
+     "country": "ES",
+     "distinctive_music": "28dT4RBucxxtjedBF4sxMe",
+     "lat": 41.4493539,
+     "long": 2.248254
+  },{
+     "city": "Berkeley",
+     "country": "US",
+     "distinctive_music": "7dl5glscAo3Bn7bs1u1NDW",
+     "lat": 37.8708393,
+     "long": -122.2728638
+  },{
+     "city": "Aarhus",
+     "country": "DK",
+     "distinctive_music": "5nASmEIS7vipRpLSrCuJKG",
+     "lat": 56.1496278,
+     "long": 10.2134046
+  },{
+     "city": "Zamora",
+     "country": "ES",
+     "distinctive_music": "6vmNEfM3Cn3t1tk3sQIaWE",
+     "lat": 41.5056574,
+     "long": -5.7448038
+  },{
+     "city": "Badajoz",
+     "country": "ES",
+     "distinctive_music": "3mwlNZQeeCg1PkB5qZiNwx",
+     "lat": 38.8764686,
+     "long": -6.9733663
+  },{
+     "city": "Leon",
+     "country": "ES",
+     "distinctive_music": "0YsrggZ3L8xJuh4apX8wkt",
+     "lat": 42.6341451,
+     "long": -5.971415
+  },{
+     "city": "Skanderborg",
+     "country": "DK",
+     "distinctive_music": "5Xod7iI3mKJh4jhX3YsiiF",
+     "lat": 56.0351868,
+     "long": 9.9317878
+  },{
+     "city": "Florence",
+     "country": "IT",
+     "distinctive_music": "4FgZaS4hVpp7v9X67pPIGk",
+     "lat": 43.7698712,
+     "long": 11.2555757
+  },{
+     "city": "Strasbourg",
+     "country": "FR",
+     "distinctive_music": "0m3XWGGW4253LonlRrHHEK",
+     "lat": 48.584614,
+     "long": 7.7507127
+  },{
+     "city": "Klang",
+     "country": "MY",
+     "distinctive_music": "7zNYz1MqMZB410IyScmGoR",
+     "lat": 3.0471533,
+     "long": 101.4492077
+  },{
+     "city": "Esbjerg",
+     "country": "DK",
+     "distinctive_music": "6I73n99JA4s0D5mSkYtT1G",
+     "lat": 55.4664892,
+     "long": 8.4520751
+  },{
+     "city": "Svendborg",
+     "country": "DK",
+     "distinctive_music": "4pbljDVA7968UKxLTPNbQN",
+     "lat": 55.0638502,
+     "long": 10.608807
+  },{
+     "city": "Des Moines",
+     "country": "US",
+     "distinctive_music": "0nAxcvUmADzpdOqjmuEWwV",
+     "lat": 41.5910641,
+     "long": -93.6037148
+  },{
+     "city": "Cordoba",
+     "country": "ES",
+     "distinctive_music": "4e4011XjywSBGEVZrnlDGp",
+     "lat": 37.8845065,
+     "long": -4.7793654
+  },{
+     "city": "Ballerup",
+     "country": "DK",
+     "distinctive_music": "0k6qqjXngpfNhALTg0vCLs",
+     "lat": 55.7303589,
+     "long": 12.3612313
+  },{
+     "city": "Lidingo",
+     "country": "SE",
+     "distinctive_music": "1kXFmobe7NpZtEtwrNgB2o",
+     "lat": 59.3643845,
+     "long": 18.133142
+  },{
+     "city": "Randers",
+     "country": "DK",
+     "distinctive_music": "3ypBUccR58LODp8RApJDxa",
+     "lat": 56.4800019,
+     "long": 10.0891444
+  },{
+     "city": "Odense",
+     "country": "DK",
+     "distinctive_music": "0h2V8fM4tWNSMcEIxhWYgr",
+     "lat": 55.3997225,
+     "long": 10.3852104
+  },{
+     "city": "Castellon",
+     "country": "ES",
+     "distinctive_music": "4cIgTDMWCZ4dkMh0wwFWpd",
+     "lat": 40.2518568,
+     "long": -0.0615051
+  },{
+     "city": "Skien",
+     "country": "NO",
+     "distinctive_music": "1L7VGhUrZP3iWazmmX1j0z",
+     "lat": 59.2663783,
+     "long": 9.5312819
+  },{
+     "city": "Skive",
+     "country": "DK",
+     "distinctive_music": "0BuInLnx3rrLdPtZ4qpUqt",
+     "lat": 56.6459244,
+     "long": 8.9327322
+  },{
+     "city": "Roskilde",
+     "country": "DK",
+     "distinctive_music": "78kLwhDuKsrqAaLAgGiMJi",
+     "lat": 55.6433478,
+     "long": 12.0819247
+  },{
+     "city": "Tepic",
+     "country": "MX",
+     "distinctive_music": "02QROr8NBIQbbIf3p0Pc9f",
+     "lat": 21.5044414,
+     "long": -104.8946666
+  },{
+     "city": "Elche",
+     "country": "ES",
+     "distinctive_music": "5XMW3mmraDo4jaVR36Jwvl",
+     "lat": 38.2653181,
+     "long": -0.6988487
+  },{
+     "city": "Hillerød",
+     "country": "DK",
+     "distinctive_music": "1OkcXNyEkvTGoN8O9rFaHw",
+     "lat": 55.9285735,
+     "long": 12.3063909
+  },{
+     "city": "Silkeborg",
+     "country": "DK",
+     "distinctive_music": "5rDat7r5uOt0iJPZl4G9HK",
+     "lat": 56.169453,
+     "long": 9.5495141
+  },{
+     "city": "Zaragoza",
+     "country": "ES",
+     "distinctive_music": "68VS9FZSaMOMXw0He9DcIw",
+     "lat": 41.6521342,
+     "long": -0.8809427
+  },{
+     "city": "Wiesbaden",
+     "country": "DE",
+     "distinctive_music": "0SDnM0Xhc1bakVXKLw0IHD",
+     "lat": 50.0833,
+     "long": 8.25
+  },{
+     "city": "Barceloneta",
+     "country": "ES",
+     "distinctive_music": "4gzrrHOTFOtjupZbchOOmv",
+     "lat": 41.3806533,
+     "long": 2.1899274
+  },{
+     "city": "Reus",
+     "country": "ES",
+     "distinctive_music": "4hkHuhRACyjA8y0TwsEml5",
+     "lat": 41.1555564,
+     "long": 1.1076133
+  },{
+     "city": "Hyvinkaa",
+     "country": "FI",
+     "distinctive_music": "0yDwjV9oy3C6W6rdem4zy1",
+     "lat": 60.6335719,
+     "long": 24.8695328
+  },{
+     "city": "Frederiksberg",
+     "country": "DK",
+     "distinctive_music": "6JSg1qbRX4ctCTVqn9PhaH",
+     "lat": 55.678016,
+     "long": 12.5326186
+  },{
+     "city": "Essen",
+     "country": "DE",
+     "distinctive_music": "3yXEYzqUu4U6lwaQJ8sbSt",
+     "lat": 51.457087,
+     "long": 7.011429
+  },{
+     "city": "Plymouth",
+     "country": "GB",
+     "distinctive_music": "7C31VhIFJQcOy2bhFt4RjP",
+     "lat": 50.3712659,
+     "long": -4.1425657
+  },{
+     "city": "Haderslev",
+     "country": "DK",
+     "distinctive_music": "3hL4Koaw78gRcTjeDyNBvK",
+     "lat": 55.2500715,
+     "long": 9.4997871
+  },{
+     "city": "Dortmund",
+     "country": "DE",
+     "distinctive_music": "7HwS0dWebnXyOnm4LaaiiV",
+     "lat": 51.5142273,
+     "long": 7.4652789
+  },{
+     "city": "Braunschweig",
+     "country": "DE",
+     "distinctive_music": "35CM7VBvlC1mAP4qMQxr1C",
+     "lat": 52.2639962,
+     "long": 10.5252669
+  },{
+     "city": "Terrassa",
+     "country": "ES",
+     "distinctive_music": "7INKxptwEMLgAKqdeVGZfq",
+     "lat": 41.5697302,
+     "long": 2.0132071
+  },{
+     "city": "Grenoble",
+     "country": "FR",
+     "distinctive_music": "20VbdV3ifLduv1WskrKh82",
+     "lat": 45.182151,
+     "long": 5.7274722
+  },{
+     "city": "Quito",
+     "country": "EC",
+     "distinctive_music": "5gawcFTWKWcsMWq30RAPma",
+     "lat": -0.220164,
+     "long": -78.5123273
+  },{
+     "city": "Kolding",
+     "country": "DK",
+     "distinctive_music": "75Kqg3yxJQY1G4vxUQU5jy",
+     "lat": 55.4894999,
+     "long": 9.47905
+  },{
+     "city": "Alcorcon",
+     "country": "ES",
+     "distinctive_music": "46nrA3Q0pdd9BFEQ8JlU40",
+     "lat": 40.3467624,
+     "long": -3.8286315
+  },{
+     "city": "Havdrup",
+     "country": "DK",
+     "distinctive_music": "4tqIUmsqKyfwHOVRmDpLkq",
+     "lat": 55.5440887,
+     "long": 12.1204226
+  },{
+     "city": "Amadora",
+     "country": "PT",
+     "distinctive_music": "1U8ikPv6CNPKN1dinj2jDa",
+     "lat": 38.7595162,
+     "long": -9.2236769
+  },{
+     "city": "Girona",
+     "country": "ES",
+     "distinctive_music": "69cFoe11HxL9bq3R2cYJHP",
+     "lat": 41.9793006,
+     "long": 2.8199439
+  },{
+     "city": "Aachen",
+     "country": "DE",
+     "distinctive_music": "6BQO4yWoBUici1nAyUIK7a",
+     "lat": 50.776351,
+     "long": 6.083862
+  },{
+     "city": "San Nicolas De Los Garza",
+     "country": "MX",
+     "distinctive_music": "5rKY6VYXji1fsybnQhFlLV",
+     "lat": 25.7358423,
+     "long": -100.2664944
+  },{
+     "city": "Overland Park",
+     "country": "US",
+     "distinctive_music": "57ZvdgQbSBpealFH4dqwBW",
+     "lat": 38.9822282,
+     "long": -94.6707916
+  },{
+     "city": "Maia",
+     "country": "PT",
+     "distinctive_music": "0nY5nheI2fxhD0Didm81wM",
+     "lat": 41.232208,
+     "long": -8.6273182
+  },{
+     "city": "Ulm",
+     "country": "DE",
+     "distinctive_music": "6P9i5McJ2GKPHuiHPnXsbf",
+     "lat": 48.3973944,
+     "long": 9.9932755
+  },{
+     "city": "Leiria",
+     "country": "PT",
+     "distinctive_music": "1njKnrLn6PLxZ2PFY1NddC",
+     "lat": 39.7445357,
+     "long": -8.8080364
+  },{
+     "city": "Toledo",
+     "country": "ES",
+     "distinctive_music": "39p7w2No5NsPTqCLN9iH5V",
+     "lat": 39.8560679,
+     "long": -4.0239567
+  },{
+     "city": "Heidelberg",
+     "country": "DE",
+     "distinctive_music": "6YXwDH6yJ03mrFwhNBIe3s",
+     "lat": 49.4093582,
+     "long": 8.694724
+  },{
+     "city": "Porto",
+     "country": "PT",
+     "distinctive_music": "3TGX7LkGQOQIACch03Tl8S",
+     "lat": 41.1494512,
+     "long": -8.6107883
+  },{
+     "city": "Salo",
+     "country": "FI",
+     "distinctive_music": "0FNAeplEtNt7TDsaddX20W",
+     "lat": 60.3846716,
+     "long": 23.1286377
+  },{
+     "city": "Karlsruhe",
+     "country": "DE",
+     "distinctive_music": "1RPucrV2sttn7owayPgSY6",
+     "lat": 49.014068,
+     "long": 8.404437
+  },{
+     "city": "Bristol",
+     "country": "GB",
+     "distinctive_music": "1zCKx9WHLP4mAjPtNXfbkc",
+     "lat": 51.453493,
+     "long": -2.5973936
+  },{
+     "city": "Madrid",
+     "country": "ES",
+     "distinctive_music": "6c39fJ8cKRZh0tNx0rnn3T",
+     "lat": 40.4167047,
+     "long": -3.7035824
+  },{
+     "city": "Santander",
+     "country": "ES",
+     "distinctive_music": "5mYy0ML1D0iTXbmVVwHEtP",
+     "lat": 43.4623102,
+     "long": -3.8101066
+  },{
+     "city": "Santa Cruz De Tenerife",
+     "country": "ES",
+     "distinctive_music": "1P6qCv2I9xyN9eJh4WKTN4",
+     "lat": 28.4597823,
+     "long": -16.2536377
+  },{
+     "city": "Lubeck",
+     "country": "DE",
+     "distinctive_music": "7vyMuEcUof7mSh3NKTFM7I",
+     "lat": 53.866444,
+     "long": 10.684738
+  },{
+     "city": "Almeria",
+     "country": "ES",
+     "distinctive_music": "1rvgV3ILBjv2QAQJvWjWN9",
+     "lat": 36.8414197,
+     "long": -2.4628134
+  },{
+     "city": "Mainz",
+     "country": "DE",
+     "distinctive_music": "5vhfbWxlN8ycAegYPP16No",
+     "lat": 49.9999952,
+     "long": 8.2710237
+  },{
+     "city": "Kaiserslautern",
+     "country": "DE",
+     "distinctive_music": "7uKktNeNvLWox293pI6002",
+     "lat": 49.4432174,
+     "long": 7.7689951
+  },{
+     "city": "Duisburg",
+     "country": "DE",
+     "distinctive_music": "36sv3XQg3o9h0RcqmtP87w",
+     "lat": 51.434999,
+     "long": 6.759562
+  },{
+     "city": "Greve",
+     "country": "DK",
+     "distinctive_music": "6qU0AXJvELPcTBeg9kCtZj",
+     "lat": 55.5812781,
+     "long": 12.2957136
+  },{
+     "city": "Palma De Mallorca",
+     "country": "ES",
+     "distinctive_music": "2EE5G8rNVWcuFiD3j7yVLV",
+     "lat": 39.5695818,
+     "long": 2.6500745
+  },{
+     "city": "Oldenburg",
+     "country": "DE",
+     "distinctive_music": "4LoOO7R6Hp0AEPKRtfMuy2",
+     "lat": 53.1389753,
+     "long": 8.2146017
+  },{
+     "city": "Cadiz",
+     "country": "ES",
+     "distinctive_music": "2JsctsPDtSOHPLSJFal5QV",
+     "lat": 36.5298292,
+     "long": -6.2925678
+  },{
+     "city": "Cuenca",
+     "country": "EC",
+     "distinctive_music": "0VAuDgPkQOSBIRABdU2J4O",
+     "lat": -2.8666906,
+     "long": -79.193334
+  },{
+     "city": "Magdeburg",
+     "country": "DE",
+     "distinctive_music": "7q12DtAfgeDXWb5dhBuew2",
+     "lat": 52.1315889,
+     "long": 11.6399609
+  },{
+     "city": "Antofagasta",
+     "country": "CL",
+     "distinctive_music": "5a5ammj00jGOPoanizBD40",
+     "lat": -23.646374,
+     "long": -70.3980032
+  },{
+     "city": "Changhua",
+     "country": "TW",
+     "distinctive_music": "0AhoYwhqRkicxUxC1L2JBB",
+     "lat": 24.0807667,
+     "long": 120.5423
+  },{
+     "city": "Frederikshavn",
+     "country": "DK",
+     "distinctive_music": "2GWTZa3FU1PJh5YxDL3BVq",
+     "lat": 57.4412134,
+     "long": 10.5336225
+  },{
+     "city": "San Salvador",
+     "country": "SV",
+     "distinctive_music": "364L2ZMkxGUA54dPISemxq",
+     "lat": 13.6977587,
+     "long": -89.1930099
+  },{
+     "city": "Valdivia",
+     "country": "CL",
+     "distinctive_music": "1vaSl5BYOpZ6geu80yh5Qm",
+     "lat": -39.8141964,
+     "long": -73.2458524
+  },{
+     "city": "Bochum",
+     "country": "DE",
+     "distinctive_music": "27yUnnBKnQAof5pagyknv7",
+     "lat": 51.482321,
+     "long": 7.2187465
+  },{
+     "city": "Algeciras",
+     "country": "ES",
+     "distinctive_music": "06a1EpAJgNBy31nFuNmSoo",
+     "lat": 36.1310804,
+     "long": -5.4487054
+  },{
+     "city": "Koln",
+     "country": "DE",
+     "distinctive_music": "3G96v9e1U6wSb9mAVzfpwt",
+     "lat": 50.938361,
+     "long": 6.959974
+  },{
+     "city": "Dresden",
+     "country": "DE",
+     "distinctive_music": "41DTWlPJs4ELtaTx4HuS1R",
+     "lat": 51.0493286,
+     "long": 13.7381437
+  },{
+     "city": "Curitiba",
+     "country": "BR",
+     "distinctive_music": "6Dgj4lSaAtWbIsSelM0Ttp",
+     "lat": -25.4295696,
+     "long": -49.2712361
+  },{
+     "city": "Paderborn",
+     "country": "DE",
+     "distinctive_music": "6DG9w7oP60WIxjVbIUjwpH",
+     "lat": 51.7177044,
+     "long": 8.752653
+  },{
+     "city": "Munster",
+     "country": "DE",
+     "distinctive_music": "6Hdna0p45mvrBvCbBoxtIS",
+     "lat": 51.9501317,
+     "long": 7.6133017
+  },{
+     "city": "Cartago",
+     "country": "CR",
+     "distinctive_music": "5rFMZMaQzpDikBuNnN7Vmx",
+     "lat": 9.7889818,
+     "long": -83.9047598
+  },{
+     "city": "Huelva",
+     "country": "ES",
+     "distinctive_music": "6OZXlQgEZa0eprOkPmpxrs",
+     "lat": 37.2575874,
+     "long": -6.9484944
+  },{
+     "city": "Monchengladbach",
+     "country": "DE",
+     "distinctive_music": "1MH1IYQad8acWZItiULSm6",
+     "lat": 51.1946983,
+     "long": 6.4353641
+  },{
+     "city": "Tarragona",
+     "country": "ES",
+     "distinctive_music": "0cnuTq2AYhZQ6Jur4iMKpq",
+     "lat": 41.1172364,
+     "long": 1.2546057
+  },{
+     "city": "Hjørring",
+     "country": "DK",
+     "distinctive_music": "7jzkCH5xB735teuNpGZmIX",
+     "lat": 57.457183,
+     "long": 9.9855998
+  },{
+     "city": "Herlev",
+     "country": "DK",
+     "distinctive_music": "5Ms64iZK084o2WbkkWze1d",
+     "lat": 55.7248173,
+     "long": 12.4377222
+  },{
+     "city": "Stuttgart",
+     "country": "DE",
+     "distinctive_music": "15U97TTRauLLeDUBUKWXPP",
+     "lat": 48.7784485,
+     "long": 9.1800132
+  },{
+     "city": "San Pedro Sula",
+     "country": "HN",
+     "distinctive_music": "3Ra2CYNjwsnBD95VQNYyhW",
+     "lat": 15.4947902,
+     "long": -88.0671385
+  },{
+     "city": "Valladolid",
+     "country": "ES",
+     "distinctive_music": "66ar96wvraxDZgbjprNWwV",
+     "lat": 41.6521328,
+     "long": -4.7285619
+  },{
+     "city": "Freiburg",
+     "country": "DE",
+     "distinctive_music": "3rbkmr6oB9UNWt1jVSepMS",
+     "lat": 47.9960901,
+     "long": 7.8494005
+  },{
+     "city": "San Jose",
+     "country": "CR",
+     "distinctive_music": "51kazaa8ilP8wHvMeQAaS8",
+     "lat": 9.9325427,
+     "long": -84.0795781
+  },{
+     "city": "Darmstadt",
+     "country": "DE",
+     "distinctive_music": "0KNhav56MRkhcqVj3wZqJ7",
+     "lat": 49.872775,
+     "long": 8.651177
+  },{
+     "city": "Bremen",
+     "country": "DE",
+     "distinctive_music": "0hoYA0aFWvj8xKwDkzseCX",
+     "lat": 53.0758196,
+     "long": 8.8071646
+  },{
+     "city": "Glasgow",
+     "country": "GB",
+     "distinctive_music": "3NjulZzrlCwKboUb8kAhZc",
+     "lat": 55.856656,
+     "long": -4.2435816
+  },{
+     "city": "Wurzburg",
+     "country": "DE",
+     "distinctive_music": "1QurazjkNMvRvsPTBIPMDJ",
+     "lat": 49.79245,
+     "long": 9.932966
+  },{
+     "city": "Ciudad Real",
+     "country": "ES",
+     "distinctive_music": "2rQ9ptLmOCpOhm04eglXvf",
+     "lat": 38.959751,
+     "long": -3.8828282
+  },{
+     "city": "Falkenberg",
+     "country": "SE",
+     "distinctive_music": "3MiYG0KbKCVEgHMNIREvDN",
+     "lat": 57.0050987,
+     "long": 12.7056952
+  },{
+     "city": "Alajuela",
+     "country": "CR",
+     "distinctive_music": "0JYMXyt72QOtK2mQRYCbcr",
+     "lat": 10.6916755,
+     "long": -84.7561317
+  },{
+     "city": "Gottingen",
+     "country": "DE",
+     "distinctive_music": "2rdxl5lxwGXIkC66s5MbAy",
+     "lat": 51.5327604,
+     "long": 9.9352051
+  },{
+     "city": "Holstebro",
+     "country": "DK",
+     "distinctive_music": "13yPDb9yBqzoGpSOTbGhO7",
+     "lat": 56.3590324,
+     "long": 8.6159188
+  },{
+     "city": "Guayaquil",
+     "country": "EC",
+     "distinctive_music": "5TvjsgeQCfCDdY2jHqegmK",
+     "lat": -2.1704142,
+     "long": -79.905024
+  },{
+     "city": "Catania",
+     "country": "IT",
+     "distinctive_music": "02YnebhLE8yeXH9ocD4jFC",
+     "lat": 37.5021788,
+     "long": 15.0872574
+  },{
+     "city": "Bogota",
+     "country": "CO",
+     "distinctive_music": "2L6Zlre9b3JlMg9mYDZVtw",
+     "lat": 4.5980478,
+     "long": -74.0760866
+  },{
+     "city": "Trier",
+     "country": "DE",
+     "distinctive_music": "4NMk7jPCwOmNK2p9G7tluf",
+     "lat": 49.7596208,
+     "long": 6.6441878
+  },{
+     "city": "Orense",
+     "country": "ES",
+     "distinctive_music": "3cRsBFMxEUBxMrFCMRQRIc",
+     "lat": 42.1939629,
+     "long": -7.5371239
+  },{
+     "city": "Trollhattan",
+     "country": "SE",
+     "distinctive_music": "2iaEG9gBQozDJzbx4mwYsI",
+     "lat": 58.2178681,
+     "long": 12.341386
+  },{
+     "city": "Heredia",
+     "country": "CR",
+     "distinctive_music": "2gOzzIeQr0saPFGmFHVdS0",
+     "lat": 10.1779723,
+     "long": -84.0582363
+  },{
+     "city": "Castel Mella",
+     "country": "IT",
+     "distinctive_music": "4TAqbfO80QJtTkeJa58a8F",
+     "lat": 45.4995922,
+     "long": 10.1450083
+  },{
+     "city": "Dusseldorf",
+     "country": "DE",
+     "distinctive_music": "4qUo662D5AHrpH2ulGVzU5",
+     "lat": 51.2254018,
+     "long": 6.7763137
+  },{
+     "city": "Køge",
+     "country": "DK",
+     "distinctive_music": "4hsrPdrtA6iYJpk3Vk710m",
+     "lat": 55.4565009,
+     "long": 12.1818964
+  },{
+     "city": "Herning",
+     "country": "DK",
+     "distinctive_music": "2K7gyMfDLOGyB33hvIi2dT",
+     "lat": 56.1379757,
+     "long": 8.9746623
+  },{
+     "city": "Medellin",
+     "country": "CO",
+     "distinctive_music": "5P91AgItRftuIFkCEQusyC",
+     "lat": 6.2443382,
+     "long": -75.5735529
+  },{
+     "city": "Osasco",
+     "country": "BR",
+     "distinctive_music": "1rfYB95mbIDLnWOJCVr1AP",
+     "lat": -23.5324858,
+     "long": -46.79168
+  },{
+     "city": "Vanløse",
+     "country": "DK",
+     "distinctive_music": "65smj8swatS0ZCHnr5k2re",
+     "lat": 55.6856249,
+     "long": 12.4888093
+  },{
+     "city": "Cartagena",
+     "country": "ES",
+     "distinctive_music": "6hhS1tqjx1ejxPN6A9spJL",
+     "lat": 37.6267868,
+     "long": -1.0006183
+  },{
+     "city": "Cancun",
+     "country": "MX",
+     "distinctive_music": "1cFeivo92AoBBd1tDgBLIj",
+     "lat": 21.161829,
+     "long": -86.8250499
+  },{
+     "city": "Vigo",
+     "country": "ES",
+     "distinctive_music": "5NsUcxMDfYUsvDlYqef4FA",
+     "lat": 42.2376602,
+     "long": -8.7247204
+  },{
+     "city": "Lleida",
+     "country": "ES",
+     "distinctive_music": "01exAVzC8NgFBL0JhdokPL",
+     "lat": 41.6147605,
+     "long": 0.6267842
+  },{
+     "city": "Calgary",
+     "country": "CA",
+     "distinctive_music": "3tBo7xjgNyJ97liso0vTv0",
+     "lat": 51.0253267,
+     "long": -114.0498684
+  },{
+     "city": "Lappeenranta",
+     "country": "FI",
+     "distinctive_music": "1QZRESGFpRZnTinQFEQ7DB",
+     "lat": 61.0582424,
+     "long": 28.1875302
+  },{
+     "city": "Lillestrøm",
+     "country": "NO",
+     "distinctive_music": "1eeWR1puGXSVAgP1J4dFbr",
+     "lat": 59.9567247,
+     "long": 11.0493564
+  },{
+     "city": "Dundee",
+     "country": "GB",
+     "distinctive_music": "0c9x2tuEXF4T1um3rKd4oT",
+     "lat": 56.4593653,
+     "long": -2.9735212
+  },{
+     "city": "Caceres",
+     "country": "ES",
+     "distinctive_music": "38f3kECAdT25ohe5CnSpJt",
+     "lat": 39.4745175,
+     "long": -6.371676
+  },{
+     "city": "Cali",
+     "country": "CO",
+     "distinctive_music": "0njloMKUXOe61T958Fd5mZ",
+     "lat": 3.4319329,
+     "long": -76.5113047
+  },{
+     "city": "Gijon",
+     "country": "ES",
+     "distinctive_music": "76DBtkVAgNiYzUAsck1lWD",
+     "lat": 43.5450394,
+     "long": -5.6626442
+  },{
+     "city": "Erlangen",
+     "country": "DE",
+     "distinctive_music": "6Jcic9kIhHI8OhWVBFM5Jp",
+     "lat": 49.598121,
+     "long": 11.003653
+  },{
+     "city": "Athens",
+     "country": "GR",
+     "distinctive_music": "5gKQaR6TBlOrCozTNHQq0C",
+     "lat": 37.9841493,
+     "long": 23.7279843
+  },{
+     "city": "Talca",
+     "country": "CL",
+     "distinctive_music": "4kjHT8WRgk7JChbkjdnsZg",
+     "lat": -35.4264962,
+     "long": -71.6660245
+  },{
+     "city": "Saskatoon",
+     "country": "CA",
+     "distinctive_music": "4uFUytGnXZWB2NtNVEMq8p",
+     "lat": 52.131802,
+     "long": -106.6607669
+  },{
+     "city": "Ludwigsburg",
+     "country": "DE",
+     "distinctive_music": "2og5UDg5Ut8Hvw0jFOoRW8",
+     "lat": 48.8956194,
+     "long": 9.1895147
+  },{
+     "city": "Toulouse",
+     "country": "FR",
+     "distinctive_music": "1oZQ3VNQRRhfbvS1lMnE8L",
+     "lat": 43.6044622,
+     "long": 1.4442469
+  },{
+     "city": "Burgos",
+     "country": "ES",
+     "distinctive_music": "4iUR9oSvZD0lat3Qp3ISjt",
+     "lat": 42.343926,
+     "long": -3.6969769
+  },{
+     "city": "Metz",
+     "country": "FR",
+     "distinctive_music": "24dYsGW6pj5GB2K7VqLAZw",
+     "lat": 49.1196964,
+     "long": 6.1763552
+  },{
+     "city": "Mostoles",
+     "country": "ES",
+     "distinctive_music": "3cuhuueXdEYcakvQsXXZrV",
+     "lat": 40.3238525,
+     "long": -3.8649213
+  },{
+     "city": "Southampton",
+     "country": "GB",
+     "distinctive_music": "3RKJLPTEKPAzEYTVlR9xry",
+     "lat": 50.9025349,
+     "long": -1.4041889
+  },{
+     "city": "Barranquilla",
+     "country": "CO",
+     "distinctive_music": "0VsCfGpdH85U5Za1B5JzvV",
+     "lat": 11.0118485,
+     "long": -74.808646
+  },{
+     "city": "Munich",
+     "country": "DE",
+     "distinctive_music": "7lmxZ1ofGWlJKNayt4LDKK",
+     "lat": 48.1371079,
+     "long": 11.5753822
+  },{
+     "city": "Vejle",
+     "country": "DK",
+     "distinctive_music": "2YBXSKxBRevCsFHdTBgOGc",
+     "lat": 55.7000057,
+     "long": 9.5333238
+  },{
+     "city": "Hilversum",
+     "country": "NL",
+     "distinctive_music": "4Uxp3TadjK6GamnJLrHnuV",
+     "lat": 52.231587,
+     "long": 5.1734936
+  },{
+     "city": "Erfurt",
+     "country": "DE",
+     "distinctive_music": "5sLcY2vLFLs78FXMBGG4Ob",
+     "lat": 50.9777974,
+     "long": 11.0287364
+  },{
+     "city": "Nurnberg",
+     "country": "DE",
+     "distinctive_music": "29DiNlpGfd5mnSBS3HgMl7",
+     "lat": 49.453872,
+     "long": 11.077298
+  },{
+     "city": "Pereira",
+     "country": "CO",
+     "distinctive_music": "4O8CHW2hfMq1q8r2tQM0Et",
+     "lat": 4.8142912,
+     "long": -75.694645
+  },{
+     "city": "Lulea",
+     "country": "SE",
+     "distinctive_music": "4bUvQT4eOm51smhCOM6lsg",
+     "lat": 65.5831352,
+     "long": 22.1460134
+  },{
+     "city": "Brasilia",
+     "country": "BR",
+     "distinctive_music": "0GBWGFEatBTLo6DLiCqVWK",
+     "lat": -10.3333332,
+     "long": -53.1999999
+  },{
+     "city": "Maceio",
+     "country": "BR",
+     "distinctive_music": "654ZiW7lLyjUXZlfFJPhT7",
+     "lat": -9.6476842,
+     "long": -35.7339263
+  },{
+     "city": "Niteroi",
+     "country": "BR",
+     "distinctive_music": "4qcEtHGiGzENErvolfPb2b",
+     "lat": -22.883237,
+     "long": -43.1154551
+  },{
+     "city": "Caxias Do Sul",
+     "country": "BR",
+     "distinctive_music": "3dCIn9pBmYX3jk2xmvfZrH",
+     "lat": -29.1684795,
+     "long": -51.179386
+  },{
+     "city": "Sao Paulo",
+     "country": "BR",
+     "distinctive_music": "6MP0EKbToSg5mLY6oNOO0X",
+     "lat": -21.9549805,
+     "long": -49.0232347
+  },{
+     "city": "Valparaiso",
+     "country": "CL",
+     "distinctive_music": "1sXYBB6lYRX5uV59ts7imD",
+     "lat": -33.0458455,
+     "long": -71.6196748
+  },{
+     "city": "Nottingham",
+     "country": "GB",
+     "distinctive_music": "4Brr9Wqz3bDD4UiBpeX18h",
+     "lat": 52.9534161,
+     "long": -1.1492772
+  },{
+     "city": "Teresina",
+     "country": "BR",
+     "distinctive_music": "2niJAkfLqjhPnzpLixYl7h",
+     "lat": -5.0896402,
+     "long": -42.8095879
+  },{
+     "city": "Coventry",
+     "country": "GB",
+     "distinctive_music": "1gEsgnLypKnM6AcU4V3Arn",
+     "lat": 52.4081812,
+     "long": -1.5104769
+  },{
+     "city": "Frankfurt Am Main",
+     "country": "DE",
+     "distinctive_music": "3ZSBb9kDaUrBf84YQ0uvSA",
+     "lat": 50.110653,
+     "long": 8.682093
+  },{
+     "city": "York",
+     "country": "GB",
+     "distinctive_music": "5RzvnK8AryfYmggBjjN2kS",
+     "lat": 53.9590555,
+     "long": -1.081536
+  },{
+     "city": "Kiel",
+     "country": "DE",
+     "distinctive_music": "1vSzWEdyRlOAok7kGdBZ2w",
+     "lat": 54.3216753,
+     "long": 10.1371858
+  },{
+     "city": "Boden",
+     "country": "SE",
+     "distinctive_music": "1Re4uVzNSo3csVDfeHbS7c",
+     "lat": 65.8270016,
+     "long": 21.6930018
+  },{
+     "city": "Valby",
+     "country": "DK",
+     "distinctive_music": "2dJkZUqOoTFdPiaySwqjAI",
+     "lat": 55.6618019,
+     "long": 12.5169523
+  },{
+     "city": "Nancy",
+     "country": "FR",
+     "distinctive_music": "49pB4I8VPeTk9mhnjVr0gK",
+     "lat": 48.6937223,
+     "long": 6.1834097
+  },{
+     "city": "Salvador",
+     "country": "BR",
+     "distinctive_music": "1s83xcj4GrvcbGEu82rJ9U",
+     "lat": -12.9822498,
+     "long": -38.4812771
+  },{
+     "city": "Zurich",
+     "country": "CH",
+     "distinctive_music": "4ywSNVTg3bsD9PbfnVtxa1",
+     "lat": 47.3685586,
+     "long": 8.5404434
+  },{
+     "city": "Vancouver",
+     "country": "CA",
+     "distinctive_music": "59pGT4b426QdnWMgR1ff3v",
+     "lat": 49.262428,
+     "long": -123.1155399
+  },{
+     "city": "Quebec",
+     "country": "CA",
+     "distinctive_music": "4DYtggJeB6IAljQlRRCeM8",
+     "lat": 52.4760892,
+     "long": -71.8258667
+  },{
+     "city": "Goiania",
+     "country": "BR",
+     "distinctive_music": "6CuHx0PQqNygXgcOXV8GRT",
+     "lat": -16.6808819,
+     "long": -49.253269
+  },{
+     "city": "Sorocaba",
+     "country": "BR",
+     "distinctive_music": "06jjYm1L6oxG4fDtbAmhG6",
+     "lat": -23.5016669,
+     "long": -47.4580559
+  },{
+     "city": "Durham",
+     "country": "GB",
+     "distinctive_music": "5acqrVFsYtSeyJNZcXgsRK",
+     "lat": 54.7764152,
+     "long": -1.5758538
+  },{
+     "city": "Oberhausen",
+     "country": "DE",
+     "distinctive_music": "65m4hfw3qwLjZtXgAcJJ0J",
+     "lat": 51.5139932,
+     "long": 6.8493228
+  },{
+     "city": "Rancagua",
+     "country": "CL",
+     "distinctive_music": "145hQbMVb2tKGRpGAgjYFb",
+     "lat": -34.1702632,
+     "long": -70.7407487
+  },{
+     "city": "Brisbane",
+     "country": "AU",
+     "distinctive_music": "5tkwdyV1uD33JvuXISgkMj",
+     "lat": -27.4689681,
+     "long": 153.0234991
+  },{
+     "city": "Brussels",
+     "country": "BE",
+     "distinctive_music": "33uqkgYW3qQMWJqrLFQkCi",
+     "lat": 50.8465565,
+     "long": 4.351697
+  },{
+     "city": "London",
+     "country": "CA",
+     "distinctive_music": "5LmaA3ce8Hpb0Ddudh72s0",
+     "lat": 42.988576,
+     "long": -81.2466429
+  },{
+     "city": "Cascavel",
+     "country": "BR",
+     "distinctive_music": "6QdUdMeNy98R37ujUrXBaq",
+     "lat": -24.9616761,
+     "long": -53.4360665
+  },{
+     "city": "Santo Domingo",
+     "country": "DO",
+     "distinctive_music": "34wU6dhyWpdIldF9C0JIV0",
+     "lat": 18.4801972,
+     "long": -69.9421109
+  },{
+     "city": "Mendoza",
+     "country": "AR",
+     "distinctive_music": "5OtW5qfypPyVthJE6s39zC",
+     "lat": -34.870072,
+     "long": -68.5479965
+  },{
+     "city": "Cuiaba",
+     "country": "BR",
+     "distinctive_music": "2X4Ug6gjllZZtCVTXcbBba",
+     "lat": -15.5986685,
+     "long": -56.09913
+  },{
+     "city": "Jundiai",
+     "country": "BR",
+     "distinctive_music": "02MfJUo0yDQ5QzO0Zlko4s",
+     "lat": -23.1882257,
+     "long": -46.8838096
+  },{
+     "city": "Winnipeg",
+     "country": "CA",
+     "distinctive_music": "0ZzB8iLna97p2g9dNsLITd",
+     "lat": 49.884017,
+     "long": -97.1685789
+  },{
+     "city": "South Yarra",
+     "country": "AU",
+     "distinctive_music": "4B8q0hH96fgccBjdFH3vo8",
+     "lat": -37.8377694,
+     "long": 144.9918537
+  },{
+     "city": "Gent",
+     "country": "BE",
+     "distinctive_music": "43RwAWsZEtcQey9z6HSh2J",
+     "lat": 51.0538286,
+     "long": 3.7250121
+  },{
+     "city": "Palermo",
+     "country": "IT",
+     "distinctive_music": "5YKiBbq0gJ0XiEwkuxeRsk",
+     "lat": 38.11127,
+     "long": 13.3534422
+  },{
+     "city": "Joinville",
+     "country": "BR",
+     "distinctive_music": "0k7RzoqN8am6RiSpj6NpEY",
+     "lat": -26.3044897,
+     "long": -48.8486725
+  },{
+     "city": "Juiz De Fora",
+     "country": "BR",
+     "distinctive_music": "0X8PHjfqJEUubdqSNLD5n8",
+     "lat": -21.7609532,
+     "long": -43.3501128
+  },{
+     "city": "Tainan",
+     "country": "TW",
+     "distinctive_music": "1KuenoEy3pUE1Acm8XyVEy",
+     "lat": 22.9912479,
+     "long": 120.1848844
+  },{
+     "city": "Ringsted",
+     "country": "DK",
+     "distinctive_music": "4VDXRHbzyqExSNoshnqP3Z",
+     "lat": 55.446817,
+     "long": 11.7975218
+  },{
+     "city": "Taichung",
+     "country": "TW",
+     "distinctive_music": "04zaBm0w3KJrIPc8FJO8SP",
+     "lat": 24.163162,
+     "long": 120.6478282
+  },{
+     "city": "Belem",
+     "country": "BR",
+     "distinctive_music": "7lmo9jOcf5BaDRcVHmEWgr",
+     "lat": -1.4505599,
+     "long": -48.4682452
+  },{
+     "city": "Joao Pessoa",
+     "country": "BR",
+     "distinctive_music": "7FeEIQE2SA2DnDINp3Q0m8",
+     "lat": -7.121598,
+     "long": -34.8820279
+  },{
+     "city": "Vina Del Mar",
+     "country": "CL",
+     "distinctive_music": "0PIJphhYunC3foG6B5k8ag",
+     "lat": -33.0245029,
+     "long": -71.5518118
+  },{
+     "city": "Florianopolis",
+     "country": "BR",
+     "distinctive_music": "78iFduxEcgZWsXV6ctovIN",
+     "lat": -27.5973001,
+     "long": -48.5496097
+  },{
+     "city": "Bucaramanga",
+     "country": "CO",
+     "distinctive_music": "4MiN7w68M6XiV5ahsQ1WsY",
+     "lat": 7.1114611,
+     "long": -73.1172868
+  },{
+     "city": "Berlin",
+     "country": "DE",
+     "distinctive_music": "7BRS5IzacmVtRjGH1JYwM6",
+     "lat": 52.5170365,
+     "long": 13.3888599
+  },{
+     "city": "Taastrup",
+     "country": "DK",
+     "distinctive_music": "7JmRZtyz0AsIsvViixJ2S1",
+     "lat": 55.6522136,
+     "long": 12.292049
+  },{
+     "city": "Uberlandia",
+     "country": "BR",
+     "distinctive_music": "594AyIkz6vyEpw86jZid8W",
+     "lat": -18.918804,
+     "long": -48.2767836
+  },{
+     "city": "Las Palmas",
+     "country": "ES",
+     "distinctive_music": "5TYe12RUq3YvaLWfa5K9L4",
+     "lat": 27.9580004,
+     "long": -15.6062304
+  },{
+     "city": "Pelotas",
+     "country": "BR",
+     "distinctive_music": "5mNd3nXdr5eLWCaoJ7xOC5",
+     "lat": -31.7700103,
+     "long": -52.3411542
+  },{
+     "city": "Neuquen",
+     "country": "AR",
+     "distinctive_music": "1TK47kU5uiOwXTkEM7E66Z",
+     "lat": -38.3695056,
+     "long": -69.8322749
+  },{
+     "city": "Kouvola",
+     "country": "FI",
+     "distinctive_music": "0pLSftt3ydCuoDOG3cJXWI",
+     "lat": 60.870144,
+     "long": 26.7018011
+  },{
+     "city": "Graz",
+     "country": "AT",
+     "distinctive_music": "1ACAnFkC6XqzzjjYHW6Rso",
+     "lat": 47.0702563,
+     "long": 15.4385716
+  },{
+     "city": "Canberra",
+     "country": "AU",
+     "distinctive_music": "2H6ioM6bQkHXcAgTRKbjQC",
+     "lat": -35.2975905,
+     "long": 149.1012676
+  },{
+     "city": "Valencia",
+     "country": "ES",
+     "distinctive_music": "3hZdPnHhz4A0mWp27rzaTd",
+     "lat": 39.4699014,
+     "long": -0.3759512
+  },{
+     "city": "Vienna",
+     "country": "AT",
+     "distinctive_music": "2JMgF5t1zujzRNwanIZMXY",
+     "lat": 48.2083537,
+     "long": 16.3725042
+  },{
+     "city": "La Paz",
+     "country": "BO",
+     "distinctive_music": "5c1oxrPjVegmEFIXcqE5YH",
+     "lat": -16.4957228,
+     "long": -68.1335781
+  },{
+     "city": "Perth",
+     "country": "AU",
+     "distinctive_music": "2LUtxMdtvFTpYw7GXsXXzI",
+     "lat": -31.952712,
+     "long": 115.8604796
+  },{
+     "city": "Federal",
+     "country": "AR",
+     "distinctive_music": "1yINgP1c9dWHitf5jg2ChO",
+     "lat": -27.4973379,
+     "long": -55.8477775
+  },{
+     "city": "Innsbruck",
+     "country": "AT",
+     "distinctive_music": "4x9Dr7qVQpTZByu6Rotmy0",
+     "lat": 47.2654296,
+     "long": 11.3927685
+  },{
+     "city": "Lanus",
+     "country": "AR",
+     "distinctive_music": "3f0xWstUUzo8n6qufC2SdV",
+     "lat": -34.7033362,
+     "long": -58.3953234
+  },{
+     "city": "Recife",
+     "country": "BR",
+     "distinctive_music": "0fobacSKKqIxsNLK5ZR30S",
+     "lat": -8.064193,
+     "long": -34.8781516
+  },{
+     "city": "Wuppertal",
+     "country": "DE",
+     "distinctive_music": "7h8xEUvaMNVxPBsym0l2eU",
+     "lat": 51.264018,
+     "long": 7.1780374
+  },{
+     "city": "Maringa",
+     "country": "BR",
+     "distinctive_music": "2nyllcv2XXz0eWxPmcDOWV",
+     "lat": -23.425104,
+     "long": -51.9382845
+  },{
+     "city": "Vitoria",
+     "country": "BR",
+     "distinctive_music": "1X3mkkoUsAz3Nb7XjNvqT4",
+     "lat": -20.2996825,
+     "long": -40.3016326
+  },{
+     "city": "Santiago",
+     "country": "CL",
+     "distinctive_music": "1YKDzk8dulhTk8BfLjZlGS",
+     "lat": -33.4377967,
+     "long": -70.650445
+  },{
+     "city": "Tucuman",
+     "country": "AR",
+     "distinctive_music": "2U3UUpx6ocHXgvcXmq0YBw",
+     "lat": -26.5643581,
+     "long": -64.8823969
+  },{
+     "city": "Sao Luis",
+     "country": "BR",
+     "distinctive_music": "6HpBYYSj2Ekbk4KMEqfXTU",
+     "lat": -2.5319223,
+     "long": -44.2933275
+  },{
+     "city": "Hagersten",
+     "country": "SE",
+     "distinctive_music": "6sWSd8l7AkNIZ5iIRSABgG",
+     "lat": 59.3022286,
+     "long": 17.9650782
+  },{
+     "city": "Adelaide",
+     "country": "AU",
+     "distinctive_music": "6qYDvlWIe0UPPTnzxvQasD",
+     "lat": -34.9274283,
+     "long": 138.599899
+  },{
+     "city": "Quilmes",
+     "country": "AR",
+     "distinctive_music": "0NBQWk94FFBLhkAyGGmqFA",
+     "lat": -34.7303024,
+     "long": -58.2688679
+  },{
+     "city": "Porto Alegre",
+     "country": "BR",
+     "distinctive_music": "5QHKGAtHcAuvhMkOCJfe8f",
+     "lat": -30.0329999,
+     "long": -51.2304999
+  },{
+     "city": "Porvoo",
+     "country": "FI",
+     "distinctive_music": "5DKNAMRDZYLSeqyl3mKwvM",
+     "lat": 60.3953913,
+     "long": 25.6604862
+  },{
+     "city": "Regina",
+     "country": "CA",
+     "distinctive_music": "1f2bpW6utoe6AYdXv5xO7K",
+     "lat": 50.44876,
+     "long": -104.6173099
+  },{
+     "city": "Uppsala",
+     "country": "SE",
+     "distinctive_music": "6ynLyJYgerfaucASXNTnAI",
+     "lat": 59.8594126,
+     "long": 17.64112
+  },{
+     "city": "Braga",
+     "country": "PT",
+     "distinctive_music": "1xra46zksTxgyAuR8FMbL0",
+     "lat": 41.5510583,
+     "long": -8.4280044
+  },{
+     "city": "Sønderborg",
+     "country": "DK",
+     "distinctive_music": "48gqAhrOPV6L0JxjkkFkXK",
+     "lat": 54.9089186,
+     "long": 9.7897999
+  },{
+     "city": "Manaus",
+     "country": "BR",
+     "distinctive_music": "5NTCNh5Nnd6cJcOoyYkeur",
+     "lat": -3.1319514,
+     "long": -59.9864061
+  },{
+     "city": "Campinas",
+     "country": "BR",
+     "distinctive_music": "7vj8GljR8bSHU6ZNSUmCdd",
+     "lat": -22.9055599,
+     "long": -47.0608299
+  },{
+     "city": "Sao Goncalo",
+     "country": "BR",
+     "distinctive_music": "6Ute81bpxrhEbJUKqnTYDI",
+     "lat": -22.8219013,
+     "long": -43.0309251
+  },{
+     "city": "Rio De Janeiro",
+     "country": "BR",
+     "distinctive_music": "0nxQfhOoJtLPLgj1Miqf76",
+     "lat": -22.2752761,
+     "long": -42.4194149
+  },{
+     "city": "Belo Horizonte",
+     "country": "BR",
+     "distinctive_music": "6S2q3IyYouIW4luqohbCuG",
+     "lat": -19.9227317,
+     "long": -43.9450947
+  },{
+     "city": "Hobart",
+     "country": "AU",
+     "distinctive_music": "0yV847JZKfTVuEyYGVyOA2",
+     "lat": -42.8825087,
+     "long": 147.3281233
+  },{
+     "city": "Ituzaingo",
+     "country": "AR",
+     "distinctive_music": "2y1jg0jKrMqhxDK0blkc3R",
+     "lat": -31.4648071,
+     "long": -64.0957126
+  },{
+     "city": "Fortaleza",
+     "country": "BR",
+     "distinctive_music": "2xE5Z5pnvyNLKoo1kCkwFe",
+     "lat": -3.7304511,
+     "long": -38.5217988
+  },{
+     "city": "Regensburg",
+     "country": "DE",
+     "distinctive_music": "7D5WgrBX3l1BJfW8d6ePiv",
+     "lat": 49.0195333,
+     "long": 12.0974869
+  },{
+     "city": "Toronto",
+     "country": "CA",
+     "distinctive_music": "13tOPoUzV01Y8ecn2pJcKt",
+     "lat": 43.653963,
+     "long": -79.3872069
+  },{
+     "city": "Horsens",
+     "country": "DK",
+     "distinctive_music": "0rKRBScnCZSBJ7jgkWvlGS",
+     "lat": 55.8611696,
+     "long": 9.8444774
+  },{
+     "city": "Leuven",
+     "country": "BE",
+     "distinctive_music": "49DeEYtLxKT026196sHO2W",
+     "lat": 50.879202,
+     "long": 4.7011675
+  },{
+     "city": "Osnabruck",
+     "country": "DE",
+     "distinctive_music": "6nAdpWHTQegZMSVK3IlV5F",
+     "lat": 52.266837,
+     "long": 8.049741
+  },{
+     "city": "Polska",
+     "country": "PL",
+     "distinctive_music": "0EHoX5U43EgHbX9wQkCwQn",
+     "lat": 52.0977181,
+     "long": 19.0258159
+  },{
+     "city": "Lyon",
+     "country": "FR",
+     "distinctive_music": "7q4wXsdqyC1DmNfWnSlFQD",
+     "lat": 45.7578137,
+     "long": 4.8320114
+  },{
+     "city": "La Plata",
+     "country": "AR",
+     "distinctive_music": "7G0EJswS7PcZDXuvzEb8tX",
+     "lat": -34.9206796,
+     "long": -57.9537637
+  },{
+     "city": "Oviedo",
+     "country": "ES",
+     "distinctive_music": "0Tjof4lqI5i3evGuEBaL6a",
+     "lat": 43.3533424,
+     "long": -5.8795142
+  },{
+     "city": "Aracaju",
+     "country": "BR",
+     "distinctive_music": "5ngQac05vn8kHLmnEuFXwK",
+     "lat": -10.916206,
+     "long": -37.0774654
+  },{
+     "city": "Contagem",
+     "country": "BR",
+     "distinctive_music": "7HTpLAtf7wrLJH9sO2MRHG",
+     "lat": -19.9132748,
+     "long": -44.0840952
+  },{
+     "city": "Las Palmas De Gran Canaria",
+     "country": "ES",
+     "distinctive_music": "5m3H5fKo6WQhVbpDX4ALFZ",
+     "lat": 28.1287799,
+     "long": -15.4350513
+  },{
+     "city": "Mannedorf",
+     "country": "CH",
+     "distinctive_music": "0gzOjXybYviejhPIlPcfMi",
+     "lat": 47.253174,
+     "long": 8.6918153
+  },{
+     "city": "Sydney",
+     "country": "AU",
+     "distinctive_music": "6ihdAZpjaFnPT8hMpd1Fqn",
+     "lat": -33.8679573,
+     "long": 151.210047
+  },{
+     "city": "Hanover",
+     "country": "DE",
+     "distinctive_music": "3pNqctIlnhLjFoAvSx3rBM",
+     "lat": 52.3744779,
+     "long": 9.7385532
+  },{
+     "city": "Cordoba",
+     "country": "AR",
+     "distinctive_music": "4a64qbHEzRKhhLTrhtdHYs",
+     "lat": -32.096736,
+     "long": -63.7940922
+  },{
+     "city": "Corrientes",
+     "country": "AR",
+     "distinctive_music": "5kR7xUFD94Ta0gle9sO8Q2",
+     "lat": -28.5912314,
+     "long": -57.9394657
+  },{
+     "city": "Buena Park",
+     "country": "US",
+     "distinctive_music": "4SPmIa6FHLYNfaDFzrvSi7",
+     "lat": 33.870413,
+     "long": -117.9962164
+  },{
+     "city": "Santa Fe",
+     "country": "AR",
+     "distinctive_music": "71onXyNJZXu0t6M3Ofemli",
+     "lat": -30.3154738,
+     "long": -61.1645075
+  },{
+     "city": "Natal",
+     "country": "BR",
+     "distinctive_music": "0nFPFxzBc3SWbwaneiZQXw",
+     "lat": -5.8053979,
+     "long": -35.2080904
+  },{
+     "city": "Melbourne",
+     "country": "AU",
+     "distinctive_music": "6Ackagl593R0T3xcreWpq6",
+     "lat": -37.8142175,
+     "long": 144.9631608
+  },{
+     "city": "Mar Del Plata",
+     "country": "AR",
+     "distinctive_music": "73OBEYkOA9a6hjyH3hTmfP",
+     "lat": -37.9977224,
+     "long": -57.5482702
+  },{
+     "city": "Concepcion",
+     "country": "CL",
+     "distinctive_music": "09noPQVL1x4Y4JRgPUblB7",
+     "lat": -36.8270742,
+     "long": -73.0502464
+  },{
+     "city": "Ribeirao Preto",
+     "country": "BR",
+     "distinctive_music": "3lKM8GL8QwMy9rxclqMjYA",
+     "lat": -21.1783329,
+     "long": -47.806667
+  },{
+     "city": "Londrina",
+     "country": "BR",
+     "distinctive_music": "2mMk3XB7CiRO3LyRrvi4eo",
+     "lat": -23.3112877,
+     "long": -51.1595022
+  },{
+     "city": "Helsingborg",
+     "country": "SE",
+     "distinctive_music": "6qLPO1rNwvtE31OtiFad3x",
+     "lat": 56.0441984,
+     "long": 12.7040684
+  },{
+     "city": "Nykoping",
+     "country": "SE",
+     "distinctive_music": "3UZ5H87oH6hnGBb6prgutD",
+     "lat": 58.7544913,
+     "long": 17.0118143
+  },{
+     "city": "Bielefeld",
+     "country": "DE",
+     "distinctive_music": "54BVAxU1LimFQcvZjNCB8n",
+     "lat": 52.010877,
+     "long": 8.540868
+  },{
+     "city": "Rødovre",
+     "country": "DK",
+     "distinctive_music": "45kF883NpTU6qnSWZBk4e7",
+     "lat": 55.6812495,
+     "long": 12.4547294
+  },{
+     "city": "Santo Andre",
+     "country": "BR",
+     "distinctive_music": "2WWUFw85UnUBNDfWni3mfb",
+     "lat": -23.6573394,
+     "long": -46.5322503
+  },{
+     "city": "Krefeld",
+     "country": "DE",
+     "distinctive_music": "1cFbA8ZoHrlbMgvhidxYjD",
+     "lat": 51.3331205,
+     "long": 6.5623343
+  },{
+     "city": "Kajang",
+     "country": "MY",
+     "distinctive_music": "12VSwHLGvWRDE1IcnObYK6",
+     "lat": 2.9901101,
+     "long": 101.7894868
+  },{
+     "city": "Leipzig",
+     "country": "DE",
+     "distinctive_music": "4I4mbi6XG8RykAvBvzKWmx",
+     "lat": 51.3391827,
+     "long": 12.3810549
+  },{
+     "city": "Hamburg",
+     "country": "DE",
+     "distinctive_music": "55MH5B9IOaMpCGQjbsTqB5",
+     "lat": 53.5437641,
+     "long": 10.0099133
+  },{
+     "city": "Montreal",
+     "country": "CA",
+     "distinctive_music": "41hLKhQkDDcShfQFLBysPw",
+     "lat": 45.497684,
+     "long": -73.6125179
+  },{
+     "city": "Sao Jose Dos Campos",
+     "country": "BR",
+     "distinctive_music": "6H6SqdyWKFbWrSP7EshNed",
+     "lat": -23.180501,
+     "long": -45.8872968
+  },{
+     "city": "Sao Jose Do Rio Preto",
+     "country": "BR",
+     "distinctive_music": "5Aht1Rio5XQs7vU2dfnUs6",
+     "lat": -20.812585,
+     "long": -49.3804211
+  },{
+     "city": "Nova Iguacu",
+     "country": "BR",
+     "distinctive_music": "3jEvVhsuzWRPoRoeN2EHai",
+     "lat": -22.7592174,
+     "long": -43.4508727
+  },{
+     "city": "Bahia Blanca",
+     "country": "AR",
+     "distinctive_music": "1u8bkPfh13Se0ZU9RVWAIB",
+     "lat": -38.7182363,
+     "long": -62.2662449
+  },{
+     "city": "Aabenraa",
+     "country": "DK",
+     "distinctive_music": "6u7jfhRUNy54RbaGbfBotm",
+     "lat": 55.0446228,
+     "long": 9.4209667
+  },{
+     "city": "La Laguna",
+     "country": "ES",
+     "distinctive_music": "3I5BaoWHt7brXXRrilATy9",
+     "lat": 28.4857715,
+     "long": -16.3159421
+  },{
+     "city": "Jerez De La Frontera",
+     "country": "ES",
+     "distinctive_music": "3FQPj7tdyAjpdMTFN5rADy",
+     "lat": 36.6816936,
+     "long": -6.1377401
+  },{
+     "city": "Augsburg",
+     "country": "DE",
+     "distinctive_music": "5odcM6V7pLPDiDGFT0VYqC",
+     "lat": 48.3668041,
+     "long": 10.8986971
+  },{
+     "city": "Campo Grande",
+     "country": "BR",
+     "distinctive_music": "4FEX4CQRt386ptxFQSIXT1",
+     "lat": -20.4640172,
+     "long": -54.6162946
+  },{
+     "city": "Prague",
+     "country": "CZ",
+     "distinctive_music": "31jSApIT9fDremmLWzGOA3",
+     "lat": 50.0874654,
+     "long": 14.4212535
+  },{
+     "city": "Chemnitz",
+     "country": "DE",
+     "distinctive_music": "2MNGdcT4qJBqmb4a16wqKz",
+     "lat": 50.8322608,
+     "long": 12.9252977
+  },{
+     "city": "Mannheim",
+     "country": "DE",
+     "distinctive_music": "320muRLbA5DTjSvwm6uTAt",
+     "lat": 49.489591,
+     "long": 8.467236
+  },{
+     "city": "Mississauga",
+     "country": "CA",
+     "distinctive_music": "53B6ZCauN98XL240wTJUjI",
+     "lat": 43.590338,
+     "long": -79.6457289
+  },{
+     "city": "Thisted",
+     "country": "DK",
+     "distinctive_music": "7LIkF7OHxMKEYoZuOk1tTh",
+     "lat": 56.9562093,
+     "long": 8.6848749
+  },{
+     "city": "Sollentuna",
+     "country": "SE",
+     "distinctive_music": "0X6GdkjAhfDA1RorCydsVA",
+     "lat": 59.4470456,
+     "long": 17.9400409
+  },{
+     "city": "Balikesir",
+     "country": "TR",
+     "distinctive_music": "0BdkDh0KLLnkTYhaJBQstg",
+     "lat": 39.6470406,
+     "long": 27.8855587
+  },{
+     "city": "A Coruna",
+     "country": "ES",
+     "distinctive_music": "07FayhdVKT6UFmbQbuEywo",
+     "lat": 43.1538815,
+     "long": -8.5809417
+  },{
+     "city": "Brno",
+     "country": "CZ",
+     "distinctive_music": "4qVMgcjpW26VU3LeVd4xsU",
+     "lat": 49.1922443,
+     "long": 16.6113382
+  },{
+     "city": "Sao Bernardo Do Campo",
+     "country": "BR",
+     "distinctive_music": "71bXkVqbSv2LCctopogtwg",
+     "lat": -23.690102,
+     "long": -46.5629623
+  },{
+     "city": "Lublin",
+     "country": "PL",
+     "distinctive_music": "2tSdlJ0IynoAztaa1kQlT8",
+     "lat": 51.2181945,
+     "long": 22.5546776
+  },{
+     "city": "San Fernando",
+     "country": "ES",
+     "distinctive_music": "5KhZiQedJtsXieUYkiog0V",
+     "lat": 36.45787,
+     "long": -6.2048561
+  },{
+     "city": "Bilbao",
+     "country": "ES",
+     "distinctive_music": "2s3EIcFEp1e8dDMOQm9pjd",
+     "lat": 43.2629489,
+     "long": -2.9349458
+  },{
+     "city": "Temuco",
+     "country": "CL",
+     "distinctive_music": "3HOUITLTuUoZNDcW9MkBme",
+     "lat": -38.7364596,
+     "long": -72.5927548
+  },{
+     "city": "San Fernando De Monte Cristi",
+     "country": "DO",
+     "distinctive_music": "0WG4LYt4fMIy2ThZ4ILuId",
+     "lat": 19.8503527,
+     "long": -71.6442017
+  },{
+     "city": "Saarbrucken",
+     "country": "DE",
+     "distinctive_music": "23fNwvYsOoXJSidLEXmuTP",
+     "lat": 49.234362,
+     "long": 6.996379
+  },{
+     "city": "Buenos Aires",
+     "country": "AR",
+     "distinctive_music": "1iyu1s4szp3ASCNSbGerzQ",
+     "lat": -34.6075615,
+     "long": -58.4370759
+  },{
+     "city": "Singapore",
+     "country": "SG",
+     "distinctive_music": "5dbzNyAsTRH8Y8OcpVXhld",
+     "lat": 1.2904527,
+     "long": 103.852038
+  },{
+     "city": "Gevelsberg",
+     "country": "DE",
+     "distinctive_music": "4mbWQ7TCJmUL00ikckcb15",
+     "lat": 51.3213173,
+     "long": 7.3401575
+  },{
+     "city": "Helsingør",
+     "country": "DK",
+     "distinctive_music": "13xHUdZY6IT3lyOlWoWK5e",
+     "lat": 56.0345277,
+     "long": 12.6136135
+  },{
+     "city": "Blumenau",
+     "country": "BR",
+     "distinctive_music": "4PwicxM4xftXvoSj7vZYD2",
+     "lat": -26.9195566,
+     "long": -49.0658024
+  },{
+     "city": "Hønefoss",
+     "country": "NO",
+     "distinctive_music": "1av67x62evvHeZE7NQdHCS",
+     "lat": 60.1666996,
+     "long": 10.2550853
+  },{
+     "city": "Santa Maria",
+     "country": "BR",
+     "distinctive_music": "3rQRC3LH9nrZeHAY4FwPVS",
+     "lat": -29.6860511,
+     "long": -53.8069213
+  },{
+     "city": "San Miguel",
+     "country": "AR",
+     "distinctive_music": "6ddq99d948fbobBV6HlXsj",
+     "lat": -28.1400306,
+     "long": -66.2025666
+  },{
+     "city": "San Isidro",
+     "country": "AR",
+     "distinctive_music": "5nX3ddb1pqsaruOEU7PSIv",
+     "lat": -34.4739791,
+     "long": -58.5264865
+  },{
+     "city": "Liege",
+     "country": "BE",
+     "distinctive_music": "34f1WuMAHqynwvFDjEe8lw",
+     "lat": 50.6451381,
+     "long": 5.5734203
+  },{
+     "city": "Santos",
+     "country": "BR",
+     "distinctive_music": "1shcn7bfSeXbs7ZAtdBuZa",
+     "lat": -23.9608329,
+     "long": -46.3338889
+  },{
+     "city": "Bonn",
+     "country": "DE",
+     "distinctive_music": "5JHgItKCUtwifREY7fuXTX",
+     "lat": 50.735851,
+     "long": 7.10066
+  },{
+     "city": "Brunswick",
+     "country": "AU",
+     "distinctive_music": "2x0PyPNFnq0V8CoqoJIuvS",
+     "lat": -37.7661599,
+     "long": 144.9617725
+  },{
+     "city": "Ottawa",
+     "country": "CA",
+     "distinctive_music": "6miuy0T2Fw1tUgT5VbiJ2h",
+     "lat": 45.421106,
+     "long": -75.6903079
+  },{
+     "city": "Santiago De Compostela",
+     "country": "ES",
+     "distinctive_music": "4lEY1nquZyhXVMORFZJ5M4",
+     "lat": 42.8804219,
+     "long": -8.5458607
+  },{
+     "city": "Izmir",
+     "country": "TR",
+     "distinctive_music": "7hHbzOTWvbbQfGFKkRk4ES",
+     "lat": 38.4153421,
+     "long": 27.144474
+  },{
+     "city": "Edmonton",
+     "country": "CA",
+     "distinctive_music": "48KS2RCXXqStC5H4miqKF0",
+     "lat": 53.535411,
+     "long": -113.5079959
+  },{
+     "city": "Halle",
+     "country": "DE",
+     "distinctive_music": "7BdHQHHB1euaZ588ckK3xU",
+     "lat": 51.45175,
+     "long": 8.2429917
+  },{
+     "city": "Antwerpen",
+     "country": "BE",
+     "distinctive_music": "6cnCH6Y8P7qNtjv77Hnsmn",
+     "lat": 51.2211097,
+     "long": 4.3997081
+  },{
+     "city": "Resistencia",
+     "country": "AR",
+     "distinctive_music": "1p9ca3yEdXD2FIXc4LFGKM",
+     "lat": -27.4511042,
+     "long": -58.9865645
+  },{
+     "city": "Salta",
+     "country": "AR",
+     "distinctive_music": "4mpcB1Q8szhZaJoCVEl5fb",
+     "lat": -25.10767,
+     "long": -64.3494963
+  },{
+     "city": "Guarulhos",
+     "country": "BR",
+     "distinctive_music": "5TQ97x9J4Uiwxh859BtFar",
+     "lat": -23.4430601,
+     "long": -46.5244589
+  },{
+     "city": "Vila Velha",
+     "country": "BR",
+     "distinctive_music": "2ngAj2JEvxoMHP140eyJph",
+     "lat": -20.3297248,
+     "long": -40.2920625
+  },{
+     "city": "Rosario",
+     "country": "AR",
+     "distinctive_music": "0mY94XxRhk1G89qsRfzLH4",
+     "lat": -32.9595003,
+     "long": -60.6615414
+  },{
+     "city": "Paris",
+     "country": "FR",
+     "distinctive_music": "2sxvQMwzAo9yjbDVBxufmh",
+     "lat": 48.8566101,
+     "long": 2.3514992
+  },{
+     "city": "Jamaica",
+     "country": "US",
+     "distinctive_music": "1EQMmz6nafunkmwugjPnF8",
+     "lat": 40.6914852,
+     "long": -73.805677
+  },{
+     "city": "Spanga",
+     "country": "SE",
+     "distinctive_music": "1aKkVEgdHvAP0wfs65Jv9Y",
+     "lat": 59.3836259,
+     "long": 17.8981821
+  },{
+     "city": "Sundsvall",
+     "country": "SE",
+     "distinctive_music": "2RRj6AXZlCX3wHB8ESeC6B",
+     "lat": 62.3921014,
+     "long": 17.3098895
+  },{
+     "city": "Eskilstuna",
+     "country": "SE",
+     "distinctive_music": "5J2NAdn3nnnsJlqSIvEsFk",
+     "lat": 59.3717379,
+     "long": 16.5051474
+  },{
+     "city": "Kalmar",
+     "country": "SE",
+     "distinctive_music": "1CNra6IizKDQXa8X75gMaT",
+     "lat": 56.6628826,
+     "long": 16.3662382
+  },{
+     "city": "Kristianstad",
+     "country": "SE",
+     "distinctive_music": "4fVmhPqKvbB8TlAFuK6Bk3",
+     "lat": 56.0293778,
+     "long": 14.1566859
+  },{
+     "city": "Motala",
+     "country": "SE",
+     "distinctive_music": "6a735HKGinvr86fzQfwEaC",
+     "lat": 58.5420395,
+     "long": 15.041261
+  }];

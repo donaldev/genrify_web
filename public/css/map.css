@@ -1,0 +1,371 @@
+.load, #load, #load-filter {
+  width: 100%;
+  height: 100%;
+  position: fixed;
+  z-index: 9999; }
+
+body {
+  background-color: #25263A;
+  height: 100%; }
+
+#load {
+  background: url("../img/ajax-loader.gif") no-repeat center center rgba(0, 0, 0, 0.25); }
+
+#load-filter {
+  background: url("../img/track-load.gif") no-repeat center center rgba(0, 0, 0, 0.25); }
+
+.container-fluid {
+  padding: 0; }
+
+.all-wrapper {
+  overflow-x: hidden; }
+
+.navbar {
+  z-index: 2000;
+  position: relative;
+  background-color: #1B1C29;
+  height: 60px;
+  margin: 0; }
+
+.navbar-brand, .navbar-brand:focus, .navbar-brand:hover {
+  color: #EEE;
+  letter-spacing: 3px;
+  position: absolute;
+  top: 10%; }
+
+.navbar-nav {
+  margin: 12.5px 10px 0 0; }
+
+.navbar-nav a {
+  text-decoration: none; }
+
+.button-logout {
+  border: 3px solid #eee;
+  color: #eee;
+  text-transform: uppercase;
+  padding: 5px 20px;
+  border-radius: 25px; }
+
+.button-logout:hover {
+  color: #BCA2D3;
+  border-color: #BCA2D3; }
+
+.img-avatar {
+  width: 30px;
+  height: 30px; }
+
+/********************
+MAP
+********************/
+#map {
+  position: relative;
+  width: 100%;
+  height: 400px;
+  border-radius: 5px; }
+
+#map-view {
+  padding: 15px; }
+
+#map-link .info {
+  color: #eee;
+  font-size: 0.6em; }
+
+#popup {
+  position: absolute;
+  margin-left: -30px;
+  margin-top: -12px; }
+
+.popover {
+  width: 175px; }
+
+.popover-content {
+  width: 175px;
+  max-width: 175px; }
+
+.btn-city {
+  border: 4px solid #0DC066;
+  border-radius: 20px;
+  background-color: #0DC066;
+  color: white;
+  font-weight: 600;
+  padding: 5px; }
+
+.btn-city:hover {
+  border-color: #0C8B4B;
+  background-color: #0C8B4B; }
+
+/*************
+DASHBOARD COLUMNS
+**************/
+.dash-col {
+  letter-spacing: 5px;
+  height: 500px;
+  max-height: 500px;
+  padding: 0;
+  margin: 20px 0;
+  background-color: #2B2D46;
+  font-family: sans-serif; }
+
+.dash-col header {
+  background-color: #212336;
+  padding: 0; }
+
+.dash-col h3, .dash-col h4 {
+  padding: 20px;
+  margin-top: -5px;
+  color: #EAEAEA;
+  letter-spacing: 3px; }
+
+.col-icons {
+  width: 25px;
+  height: 25px;
+  margin-right: 5px;
+  margin-top: -5px; }
+
+.dash-icons {
+  margin: 10px 0 0 10px;
+  vertical-align: middle;
+  color: #eee;
+  height: 50px;
+  width: 50px;
+  transition: all .6s; }
+
+.dash-icons:hover {
+  transform: scale(1.5); }
+
+/************
+RELEASE YEARS
+*************/
+#bubble-instructions {
+  color: #eee;
+  font-size: 0.7em;
+  text-align: center;
+  margin: 5px 0; }
+
+#years-link, #years-breakdown {
+  height: 650px;
+  max-height: 650px;
+  font-family: "Helvetica", sans-serif;
+  letter-spacing: 1.2px;
+  font-weight: 800;
+  font-size: 1.65em; }
+
+#save-icon img, #pause-icon, #play-icon {
+  margin-top: -5px;
+  width: 15px;
+  height: 15px;
+  transition: all .6s; }
+
+#pause-icon, #play-icon {
+  margin-right: 5px; }
+
+#save-icon img:hover, #pause-icon:hover, #play-icon:hover {
+  cursor: pointer; }
+
+#save-icon img:hover {
+  transform: scale(1.8); }
+
+#years-breakdown {
+  color: #eee; }
+
+#track-data {
+  padding: 5px;
+  border-radius: 10px;
+  color: #0DC066; }
+
+#years-breakdown p {
+  margin: 20px 0 20px 20px;
+  font-family: 'Chicle', cursive; }
+
+#years-breakdown h5 {
+  margin-left: 10px;
+  font-weight: 800; }
+
+.track-breakdown {
+  font-family: "Helvetica", sans-serif;
+  letter-spacing: normal;
+  display: inline-block;
+  padding: 10px;
+  margin: 5px;
+  color: #CA8DFF;
+  background-color: #1D1D1D;
+  font-size: 0.5em;
+  font-weight: 600; }
+
+.track-breakdown:nth-child(even) {
+  color: #B8E986; }
+
+.track-breakdown:nth-child(3n) {
+  color: #F94B63; }
+
+/************
+TRACKS
+*************/
+#track-instructions {
+  color: #eee;
+  text-align: center;
+  font-weight: 800; }
+
+.tracks {
+  color: #eee;
+  height: 1100px;
+  max-height: 1100px; }
+
+tbody {
+  font-size: 0.8em; }
+
+.table > tbody > tr:hover {
+  background-color: #282830;
+  cursor: pointer; }
+
+.table > tbody > tr > td, .table > tbody > tr > th, .table > tfoot > tr > td, .table > tfoot > tr > th, .table > thead > tr > td, .table > thead > tr > th {
+  border: 0; }
+
+.tracks-list li:hover {
+  cursor: pointer;
+  font-weight: 800;
+  color: #0DC066; }
+
+.play-btn {
+  width: 15px;
+  height: 15px;
+  margin-right: 10px;
+  transition: all .5s; }
+
+.even {
+  background-color: #212336; }
+
+.album-name {
+  color: #ABABDB;
+  margin-top: -10px; }
+
+.user-genres, .city-genres {
+  padding: 20px; }
+
+.user-genres p, .city-genres p {
+  display: inline-block;
+  border: 3px solid #FF2D55;
+  border-radius: 25px;
+  padding: 5px 10px; }
+
+.city-genres p {
+  margin: 5px;
+  border-color: #6FD476; }
+
+.user-genres p:hover, .city-genres p:hover {
+  border-color: #EEE;
+  cursor: pointer; }
+
+.genre-btn {
+  font-family: "Arial", sans-serif;
+  margin-left: 10px;
+  text-align: center;
+  background-color: #6FD476;
+  color: #eee;
+  width: 110px;
+  padding: 5px;
+  border-radius: 25px;
+  letter-spacing: normal; }
+
+.genre-btn:hover {
+  cursor: pointer; }
+
+#DataTables_Table_0_wrapper {
+  padding: 20px; }
+
+#background-header {
+  background-color: cadetblue;
+  height: 400px;
+  width: 100%; }
+
+#artist-link {
+  height: 675px;
+  max-height: 675px !important; }
+
+#genres-link {
+  max-height: 900px;
+  height: 900px !important; }
+
+#city-audio {
+  color: #eee;
+  font-size: 0.65em; }
+
+#city-audio p, #city-audio h5 {
+  margin-left: 20px; }
+
+#feedback {
+  font-family: 'Arial', sans-serif;
+  color: #eee;
+  margin-left: 12px; }
+
+#like-it {
+  color: #6FD476;
+  font-weight: 800; }
+
+.modal {
+  z-index: 1100;
+  top: 30%;
+  color: #073F5D;
+  letter-spacing: 1.1px; }
+
+.modal-header {
+  background-color: #eee;
+  color: #073F5D; }
+
+.modal .modal-body {
+  max-height: 420px;
+  overflow-y: auto; }
+
+header .fa-info-circle:hover {
+  cursor: pointer;
+  color: #ACACAC; }
+
+.az-zoom .az-windowed {
+  top: 0; }
+
+#concert-info {
+  font-size: 0.5em;
+  font-weight: 600;
+  overflow-y: auto;
+  height: 575px; }
+
+#concert-info p {
+  margin-top: -10px;
+  font-family: "Helvetica", sans-serif; }
+
+.concert {
+  margin: 30px 0; }
+
+.concert a {
+  text-decoration: none; }
+
+.concert .row {
+  margin-top: -10px;
+  padding-left: 0; }
+
+.event-address {
+  padding: 0; }
+
+#toggle-instructions {
+  color: #eee;
+  margin-left: 10px;
+  font-family: "Arial", sans-serif; }
+
+.btn-ticket {
+  background-color: #0DC066;
+  color: #eee;
+  text-align: right;
+  float: right;
+  margin-right: 15px;
+  border-radius: 10px;
+  padding: 10px; }
+
+.btn-ticket:hover {
+  background-color: #0B9851;
+  color: #eee; }
+
+.subs {
+  color: #eee;
+  letter-spacing: normal; }
+
+/*# sourceMappingURL=map.css.map */

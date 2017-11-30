@@ -1,0 +1,29 @@
+#bubble-chart .bubble {
+  position: relative;
+  margin: 0 auto;
+}
+
+.svg-container {
+    display: inline-block;
+    position: relative;
+    width: 100%;
+    vertical-align: top;
+    overflow: hidden;
+}
+.svg-content-responsive {
+    display: inline-block;
+    position: absolute;
+    left: 0;
+}
+
+#city-genres {
+  font-family: "Impact";
+}
+
+#zoom {
+  margin: 0;
+}
+
+.az-zoom .az-windowed {
+  top: 0;
+}

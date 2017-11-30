@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, shrink-to-fit=no, initial-scale=1">
+    <title>Musimap | Dashboard</title>
+    {{> links}}
+    <script src="https://openlayers.org/en/v3.20.0/build/ol.js"></script>
+    <script src="/ol3-geocoder/build/ol3-geocoder.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/2.0.0/handlebars.min.js"></script>
+    <script src="/anythingzoomer/dist/jquery.anythingzoomer.min.js"></script>
+    <script>
+      $(function(){
+        $("#zoom").anythingZoomer();
+      });
+    </script>
+  </head>
+
+  <body>
+   <div id="load"></div>
+   <div class="all-wrapper">
+      {{> navbar}}
+        <div class="row profile">
+            <div class="row">
+              <div class="col-lg-1">
+              </div>
+              <div class="col-lg-1">
+                <img id="avatar" src="../img/unknown.svg">
+              </div>
+              <div class="col-lg-10">
+                <h1 id="greeting"></h1>
+                <h5>{{email}} | {{country}} | <span id="spotifyId">{{id}}</span> | <a href="/refresh_token"><span>Refresh Token</span></a></h5>
+                {{> modal}}
+                <!--<h5>Top Artist: {{topArtist}} | Top Track: {{topTrack}} | Top Artist: {{topGenre}}</h5>-->
+              </div>
+          </div>
+        </div>
+      <div class="container">
+        <div id="wrapper">
+          {{> sidebar}}
+
+          <div id="page-content-wrapper">
+            <div class="row">
+              {{> overview}}
+            </div>
+
+            <div class="row">
+                {{> mapView}}
+            </div>
+
+            <div class="row">
+              <div class="col-lg-6">
+              </div>
+              <div class="col-lg-6">
+              </div>
+            </div>
+
+            <div class="row">
+              <div id="tracks-link" class="col-lg-12 dash-col tracks">
+                  <header>
+                    <h3><img class="col-icons" src="../img/playlist.svg" alt="Tracks Icon"> TRACKS</h3>
+                  </header>
+                  <div id="load-filtered"></div>
+                  <div id="track-instructions">
+                    <p>Click on a genre to generate a playlist of all songs of that genre and save it to your Spotify account.</p>
+                  </div>
+                  <div class="user-genres">
+                    <button class='btn-city' onclick='addCityGenres()'>View <span id="cityName"></span>'s Top Genres</button>
+                      {{#each genres}}
+                      <p tabindex="0" onclick="filterGenres('{{this}}')">{{this}}</p>
+                      {{/each}}
+
+                  </div>
+                  <div class="city-genres">
+                  </div>
+                  <table class="table table-hover" width="100%">
+                      <thead>
+                          <tr>
+                              <td>Track</td>
+                              <td>Artist</td>
+                              <td>Duration</td>
+                          </tr>
+                      </thead>
+                      <tbody>
+                      </tbody>
+                </table>
+              </div>
+            </div>
+
+            <div class="row">
+              {{> yearView}}
+            </div>
+
+            <div class="row">
+              {{> artistsCarousel}}
+            </div>
+
+            <!-- infographics -->
+
+            <div class="row">
+              {{> genres}}
+            </div>
+
+            <!--
+            <div class="row">
+              <h1 id="feedback">DID YOU <span id="like-it">LIKE?</span></h1>
+              {{#each playlists}}
+              <div class="col-lg-4 col-md-3 col-sm-6 col-xs-6 feedback">
+                <div class="playlist-container">
+                  <div class="col-lg-12 dash-playlist">
+                    <img class="playlist-mosaic" src="{{this.image}}">
+                    <h5>{{this.name}}</h5>
+                    <a onclick="postFeedback('{{this.id}}', 'yes')"><i class="fa fa-thumbs-o-up fa-2x" aria-hidden="true"></i></a>
+                    <a onclick="alert('Oh no, maybe next time.')"><i class="fa fa-thumbs-o-down fa-2x" aria-hidden="true"></i></a>
+                  </div>
+                </div>
+              </div>
+              {{/each}}
+            </div>
+          -->
+
+
+          </div>
+          <!--- end of page-content-wrapper --- >
+        </div>
+      <!--- end of wrapper --->
+    </div>
+    <!--- container --->
+  </div>
+  <!--- end of all-wrapper --->
+  {{> scripts}}
+  </body>
+</html>

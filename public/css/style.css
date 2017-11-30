@@ -1,0 +1,121 @@
+#main-homepage {
+  overflow-x: hidden;
+  background: -webkit-linear-gradient(rgba(40, 41, 51, 0.25), rgba(31, 32, 42, 0.3), rgba(29, 30, 39, 0.35), rgba(25, 26, 34, 0.4), rgba(21, 22, 28, 0.45), rgba(14, 15, 19, 0.5)), url("../img/map.png") no-repeat;
+  background: -o-linear-gradient(rgba(40, 41, 51, 0.25), rgba(31, 32, 42, 0.3), rgba(29, 30, 39, 0.35), rgba(25, 26, 34, 0.4), rgba(21, 22, 28, 0.45), rgba(14, 15, 19, 0.5)), url("../img/map.png") no-repeat;
+  background: linear-gradient(rgba(40, 41, 51, 0.25), rgba(31, 32, 42, 0.3), rgba(29, 30, 39, 0.35), rgba(25, 26, 34, 0.4), rgba(21, 22, 28, 0.45), rgba(14, 15, 19, 0.5)), url("../img/map.png") no-repeat;
+  background-size: cover;
+  height: 100vh;
+  width: 100%; }
+
+#logo-word {
+  transform: scale(1);
+  transition: transform 0.4s 0.2s;
+  text-decoration: none;
+  color: #3A3C50; }
+
+#logo-word:hover {
+  transform: scale(1.2); }
+
+.navbar-default {
+  margin: 0;
+  border: 0; }
+
+.navbar-default .navbar-nav > li > a, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover {
+  color: white; }
+
+.navbar-nav li {
+  margin-top: 10px;
+  display: inline-block;
+  font-weight: 500;
+  color: white; }
+
+.navbar-nav .nav-item a {
+  margin: 5px 10px;
+  padding: 7px 10px;
+  color: white;
+  border-bottom: solid 4px transparent; }
+
+.navbar-nav .nav-item a:hover {
+  color: white;
+  background-color: transparent;
+  border-bottom: solid 4px #70BAFE; }
+
+#login-btn, signup-btn {
+  text-align: center;
+  border: 3px solid #70BAFE;
+  border-radius: 25px;
+  width: 75px; }
+
+#login-btn:hover, signup-btn {
+  text-align: center;
+  border: 3px solid #70BAFE;
+  background-color: #70BAFE;
+  border-radius: 25px;
+  width: 75px; }
+
+#dark-spacing {
+  height: 325px;
+  background-color: black; }
+
+.icon-bar {
+  color: black; }
+
+.btn-login {
+  border: solid 3px white;
+  border-radius: 30px;
+  color: white; }
+
+.btn-login:hover, .btn-login:active {
+  border: solid 3px #70BAFE;
+  box-shadow: none;
+  border-radius: 25px;
+  background-color: #70BAFE;
+  font-weight: 700;
+  color: white;
+  border-bottom: none; }
+
+#donutChart {
+  text-align: center; }
+
+#login {
+  margin-top: 20%;
+  padding: 30px 50px;
+  font-family: "Roboto Slab", "Helvetica-Neue", Arial, sans-serif;
+  font-weight: 700;
+  letter-spacing: 0.15em;
+  color: #EEE;
+  text-align: center;
+  background-color: rgba(13, 14, 18, 0.7);
+  border-radius: 5px; }
+
+#login-button, #signup-button {
+  margin-top: 10px; }
+
+#login h1 {
+  line-height: 1.3em;
+  color: #EEE;
+  margin-bottom: 20px; }
+
+#login p {
+  margin-top: 10px;
+  letter-spacing: 0.05em;
+  line-height: 1.8em;
+  font-weight: 400;
+  color: #EEE; }
+
+#success {
+  margin-top: 10px; }
+
+.btn {
+  width: 200px; }
+
+.btn-primary {
+  background-color: #70BAFE;
+  border-color: #70BAFE;
+  border-radius: 10px; }
+
+.btn-primary:hover {
+  background-color: #44A2F8;
+  border-color: #44A2F8; }
+
+/*# sourceMappingURL=style.css.map */

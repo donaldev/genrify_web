@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="99px" height="99px" viewBox="0 0 99 99" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Soundwaves</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Soundwaves">
+            <circle id="Oval" fill="#404160" cx="49.5" cy="49.5" r="49.5"></circle>
+            <rect id="Rectangle-5" fill="#F3F3F3" transform="translate(34.607876, 52.720000) rotate(90.000000) translate(-34.607876, -52.720000) " x="18.2065354" y="48.12" width="32.8026812" height="9.2" rx="4.6"></rect>
+            <rect id="Rectangle-5" fill="#F3F3F3" transform="translate(47.364474, 49.040000) rotate(90.000000) translate(-47.364474, -49.040000) " x="22.5802262" y="44.44" width="49.568496" height="9.2" rx="4.6"></rect>
+            <rect id="Rectangle-5" fill="#F3F3F3" transform="translate(71.419774, 49.500000) rotate(90.000000) translate(-71.419774, -49.500000) " x="44.0842061" y="44.9" width="54.6711353" height="9.2" rx="4.6"></rect>
+            <rect id="Rectangle-5" fill="#F3F3F3" transform="translate(22.580226, 52.720000) rotate(90.000000) translate(-22.580226, -52.720000) " x="11.6459992" y="48.12" width="21.8684541" height="9.2" rx="4.6"></rect>
+            <rect id="Rectangle-5" fill="#F3F3F3" transform="translate(59.392124, 53.180000) rotate(90.000000) translate(-59.392124, -53.180000) " x="42.9907834" y="48.58" width="32.8026812" height="9.2" rx="4.6"></rect>
+        </g>
+    </g>
+</svg>

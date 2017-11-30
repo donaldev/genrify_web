@@ -1,0 +1,50 @@
+<div class="col-lg-7">
+  <div id="years-link" class="col-lg-12 dash-col">
+      <header>
+        <h3><img class="col-icons" src="../img/calendars.svg" alt="Tracks Icon"> RELEASE YEAR <i class="fa fa-info-circle pull-right" aria-hidden="true" data-toggle="modal" data-target="#yearsModal"></i></h3>
+      </header>
+      {{> bubbleLoading}}
+      <div id="bubble-instructions">
+        <p>Click on a bubble to hear a random track from that year</p>
+      </div>
+      <div id="city-audio">
+      </div>
+      <div id="bubble-chart" class="svg-container">
+      </div>
+  </div>
+</div>
+<div class="col-lg-5">
+  <div id="years-breakdown" class="col-lg-12 dash-col">
+    <header>
+      <h3>YEAR'S INFO</h3>
+    </header>
+      <div id="info-breakdown">
+
+      </div>
+      <div id="concert-info">
+
+      </div>
+  </div>
+</div>
+
+<!-- YEAR MODAL -->
+<div class="modal fade" id="yearsModal" tabindex="-1" role="dialog" aria-labelledby="yearsModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span>
+                </button>
+                 <h2 class="modal-title" id="yearsModalLabel">Song of the Year</h2>
+
+            </div>
+            <div class="modal-body">
+                <p>The bubble chart shows the years which make up this city's playlist</p>
+                <h4>Main Feature</h4>
+                <p>You can click on one of the bubbles and it will randomly play a song released in that year. If you like the song, there's a heart symbol that when clicked, saves the track to your Spotify account.</p>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-primary" data-dismiss="modal">Got it</button>
+            </div>
+        </div>
+    </div>
+</div>
+</div>

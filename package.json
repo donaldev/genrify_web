@@ -1,0 +1,39 @@
+{
+  "name": "musimap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "engines": {
+    "node": "v6.9.1"
+  },
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "anythingzoomer": "^2.2.7",
+    "body-parser": "^1.16.1",
+    "bootstrap": "^3.3.7",
+    "cookie-parser": "^1.4.3",
+    "d3-v4-cloud": "^1.0.0",
+    "express": "^4.14.0",
+    "font-awesome": "^4.7.0",
+    "hbs": "^4.0.1",
+    "jquery": "^3.1.1",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "mongoose": "^4.10.8",
+    "node-kmeans": "^1.1.0",
+    "ol3-geocoder": "^2.3.0",
+    "owl.carousel": "^2.2.0",
+    "path": "^0.12.7",
+    "querystring": "^0.2.0",
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.23.0",
+    "mocha": "^3.2.0"
+  }
+}

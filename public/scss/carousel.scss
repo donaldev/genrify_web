@@ -1,0 +1,55 @@
+.owl-theme .owl-nav [class*=owl-] {
+  color: #eee;
+  padding: 5px 10px;
+  background-color: transparent;
+  border: 2px solid #eee;
+  border-radius: 25px; }
+
+.owl-theme .owl-nav [class*=owl-]:hover {
+  color: #eee;
+  background-color: transparent;
+  border: 2px solid crimson; }
+
+.owl-stage {
+  margin-top: 20px;
+  height: 475px;
+}
+
+.owl-item {
+  z-index: 0;
+  background-color: #eee;
+  padding: 20px;
+  height: 425px;
+  transition: all .5s; }
+
+.big {
+  height: 435px;
+  transform: scale(1.1);
+  z-index: 10;
+  box-shadow: 5px 5px 19px black;
+}
+
+.owl-item h5 {
+  color: #292B3F;
+  font-weight: 700; }
+
+.owl-item p {
+  margin-left: 5px; }
+
+.owl-item ul {
+  margin-top: -7px;
+  padding: 10px; }
+
+.owl-item li {
+  font-size: 0.65em; }
+
+.track-info:hover {
+  cursor: pointer;
+}
+
+.slide-img {
+  height: 250px;
+  max-height: 250px;
+}
+
+/*# sourceMappingURL=carousel.css.map */
